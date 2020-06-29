@@ -1,11 +1,10 @@
-# Diseño y Nuevos Medios
+# Infografía Digital
 
-### Pontificia Universidad Católica de Chile
+### Diseño / Pontificia Universidad Católica de Chile
 
-#### Infografía Digital es un Optativo de Profundización (OPR) en Diseño, a cargo de los profesores [Jorge Cortés](https://www.graficainteractiva.com/) y [Felipe Cortez](http://profesor.faco.cl/). 
+#### Infografía Digital es un Optativo de Profundización (OPR), a cargo de los profesores [Jorge Cortés](https://www.graficainteractiva.com/) y [Felipe Cortez](http://profesor.faco.cl/). 
 
-Curso dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual, impulsados desde el periodismo digital.
-
+Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual, impulsados desde el periodismo digital.
 
 #### Bibliografía
 
