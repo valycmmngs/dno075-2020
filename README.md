@@ -12,9 +12,10 @@ Pendiente
 
 #### Referencias en línea
 
-- A Periodic Table of Visualization Methods - http://www.visual-literacy.org/periodic_table/periodic_table.html 
-- Catálogo de Visualización de Datos - https://datavizcatalogue.com/ES/
-- Information is beautiful - https://informationisbeautiful.net/
-- The functional art - http://www.thefunctionalart.com/
-- Mapping complex information - https://sheilapontis.wordpress.com/
-- Tabletop Whale - http://tabletopwhale.com/
+- [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/): Un proyecto desarrollado por Severino Ribecca para crear una biblioteca de diferentes tipos de visualización de información..
+- [Information is beautiful](https://informationisbeautiful.net/): Data, information, knowledge: we distil it into beautiful, useful graphics & diagrams.
+- Sheila Pontis → [Mapping complex information](https://sheilapontis.wordpress.com/)
+- [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
+- [Tabletop Whale](http://tabletopwhale.com/): An original science illustration blog
+- [The Funcional Art](http://www.thefunctionalart.com/): A weblog about information design and visualization
+- Visual Literacy → Knowledge Maps → [Periodic table of visualization methods](http://www.visual-literacy.org/periodic_table/periodic_table.html )
