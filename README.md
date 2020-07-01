@@ -14,17 +14,17 @@ Pendiente
 
 **Bases**
 
-- [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/): Un proyecto desarrollado por Severino Ribecca para crear una biblioteca de diferentes tipos de visualización de información..
+- [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/)
 - [Periodic table of visualization methods](http://www.visual-literacy.org/periodic_table/periodic_table.html )
 
 **Expertas/os**
 
-- Alberto Cairo - [The Funcional Art](http://www.thefunctionalart.com/) - A visualization journalist, designer, consultant, educator, and author.
-- Giorgia Lupi - http://giorgialupi.com/ - She is an information designer and a Partner at Pentagram advocating for Data Humanism. 
-- David McCandless - [Information is beautiful](https://informationisbeautiful.net/): Data, information, knowledge: we distil it into beautiful, useful graphics & diagrams.
-- Sheila Pontis - [Mapping complex information](https://sheilapontis.wordpress.com/) - 
-- Nadja Popovich - https://www.nytimes.com/by/nadja-popovich - She uses data and graphics to explain the science of climate change and its real-life impacts. She joined the New York Times climate desk in 2017
-- Stefanie Posavec - http://www.stefanieposavec.com/ - A designer, artist, and author exploring playful, friendly approaches to communicating data and information to all ages and audiences. 
+- Alberto Cairo - http://www.thefunctionalart.com/
+- Giorgia Lupi - http://giorgialupi.com/ 
+- David McCandless - https://informationisbeautiful.net/
+- Sheila Pontis - https://sheilapontis.wordpress.com/
+- Nadja Popovich - https://www.nytimes.com/by/nadja-popovich
+- Stefanie Posavec - http://www.stefanieposavec.com/
 
 **Antecedentes/Referencias**
 
