@@ -10,7 +10,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 #### Clase a Clase
 
-Clase 01 → 10/08/2020 → Precedentes: Del texto iluminado al diseño de información.
+[Clase 01 → 10/08/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01) → Precedentes: Del texto iluminado al diseño de información.
 
 Clase 02 → 17/08/2020 → Antecedentes: Entre el diseño de información y el visual storytelling.
 
