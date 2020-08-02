@@ -61,3 +61,10 @@ Wiedemann, Julius (2016) National Geographic Infographics. Colonia: Taschen.
 - [Info We Trust](https://infowetrust.com/essays): A creative studio that makes powerful data stories that inspire. Our craft is fueled by design and science.
 - [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
 - [Tabletop Whale](http://tabletopwhale.com/): An original science illustration blog
+
+
+- - - - - - - - -
+
+**Tips**
+
+- [Configurar GitHub Pages para usar dominios.cl](https://medium.com/@ggerena/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
