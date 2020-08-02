@@ -12,6 +12,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación).
 
+- - - - - - - 
 
 #### Github
 
@@ -25,6 +26,7 @@ Una vez creada la cuenta, es necesario crear un primer repositorio con GitHub:
 
 - Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
 
+- - - - - - - 
 
 #### Coding (descripción v/s programación)
 
