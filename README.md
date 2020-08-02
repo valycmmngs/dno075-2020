@@ -30,7 +30,7 @@ Franchi, Francesco (2013). Designing News: Changing the World of Editorial Desig
 
 Johnson, Jeff (2010). Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules. Burlington, MA: Elsevier
 
-Leborg, Christian (2014). Grama´tica visual. Barcelona: Gustavo Gili.
+Leborg, Christian (2014). Gramática visual. Barcelona: Gustavo Gili.
 
 McCarthy, L., Reas, C., & Fry, B. (2015) Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing. Maker Media.
 
