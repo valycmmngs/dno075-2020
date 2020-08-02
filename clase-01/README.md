@@ -30,7 +30,7 @@ Una vez creada la cuenta, es necesario crear un primer repositorio con GitHub:
 
 #### Coding (descripción v/s programación)
 
-Cuando trabajamos con código fuente podemos describir o programar. HTML y CSS NO son lenguajes de programación. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript), [Phyton](https://www.python.org/), [Ruby](https://www.ruby-lang.org/es/), [PHP](http://php.net/) sí lo son. Con estos últimos se pueden escribir programas informáticos.
+Cuando trabajamos con código fuente podemos describir o programar. HTML y CSS **no son lenguajes de programación**. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript), [Phyton](https://www.python.org/), [Ruby](https://www.ruby-lang.org/es/), [PHP](http://php.net/) sí lo son. Con estos últimos se pueden escribir programas informáticos.
 
 Para describir o porgramar, necesitamos editores de código fuente. Se recomienda usar:  
 
