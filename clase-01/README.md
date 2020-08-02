@@ -49,7 +49,7 @@ El listado está organizado según preferencia; prefiera el primero, si no puede
 
 Para abordar e identificar ejemplos para lo que presenta en la clase, cada estudiante debe seleccionar de 5 a 10 imágenes, que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darle un hilo conductor; se espera que las imágenes guarden relación entre sí y con el texto, y que se indique la fuente de origen de cada imagen.
 
-La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando la estructura de archivos compartida en esta carpeta de repositorio.
+La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando la estructura de archivos compartida en esta carpeta de repositorio; este podría ser su primer trabajo de *coding* ¡No se desespere! Solo siga las instrucciones o solicite ayuda a compañeras/os que hayan aprobado el curso de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
 - - - - - - -
 
