@@ -20,8 +20,6 @@ Meirelles, Isabel (2013). Design for Information: An Introduction to the histori
 
 Roam, Dan (2008) The Back of the Napkin: Solving Problems and Selling Ideas with Pictures. Portfolio
 
-Tufte, Edward (1990). Envisioning Information. Graphic Press.
-
 **Complementaria**
 
 Errea, Javier (2017) Visual Journalism: Infographics from the World's Best Newsrooms and Designers. Berlin: Gestalten
@@ -37,6 +35,8 @@ Leborg, Christian (2014). Grama´tica visual. Barcelona: Gustavo Gili.
 McCarthy, L., Reas, C., & Fry, B. (2015) Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing. Maker Media.
 
 Tufte, Edward (1983). The Visual Display of Quantitative Information. Graphic Press.
+
+Tufte, Edward (1990). Envisioning Information. Graphic Press.
 
 Wiedemann, Julius (2016) National Geographic Infographics. Colonia: Taschen.
 
