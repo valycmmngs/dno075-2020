@@ -40,7 +40,7 @@ Dos referencias que les podrían ser útiles ahora:
 
 - [Daniel Shiffman explica en YouTube como configurar una GitHub Page](https://youtu.be/bFVtrlyH-kc)
 
-Y una que nos será útil más adelante: 
+Y una que será útil más adelante: 
 
 - [Configurar GitHub Pages para usar dominios.cl](https://medium.com/@ggerena/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
 
