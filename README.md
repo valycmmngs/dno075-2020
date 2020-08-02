@@ -12,9 +12,9 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 01 → 10/08/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01) → Precedentes: Del texto iluminado al diseño de información.
 
-Clase 02 → 17/08/2020 → Antecedentes: Entre el diseño de información y el visual storytelling.
+[Clase 02 → 17/08/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02) → Antecedentes: Entre el diseño de información y el visual storytelling.
 
-Clase 03 → 24/08/2020 → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
+[Clase 03 → 24/08/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03) → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
 
 Clase 04 → 31/08/2020 → El boceto: Herramientas de dibujo en función de la planificación.
 
