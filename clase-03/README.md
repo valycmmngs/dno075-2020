@@ -1,6 +1,6 @@
 ## Infografía Digital v1
 
-### Clase 02 → Lunes 17 de agosto, 2020
+### Clase 03 → Lunes 24 de agosto, 2020
 
 Las primeras tres clases de este Optativo se dividen en:
 
