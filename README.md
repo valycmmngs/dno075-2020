@@ -8,6 +8,45 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - - - - - - - - - -
 
+#### Clase a Clase
+
+Clase 01 → 10/08/2020 → Precedentes: Del texto iluminado al diseño de información.
+
+Clase 02 → 17/08/2020 → Antecedentes: Entre el diseño de información y el visual storytelling.
+
+Clase 03 → 24/08/2020 → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
+
+Clase 04 → 31/08/2020 → El boceto: Herramientas de dibujo en función de la planificación.
+
+Clase 05 → 07/09/2020 → Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial.
+
+Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen
+
+Clase 07 → 21/09/2020 → SEMANA DE RECESO UNIVERSITARIO
+
+Clase 08 → 28/09/2020 → Exploración de elementos, relaciones y configuraciones visuales con P5.JS
+
+Clase 09 → 05/10/2020 → Formatos de imagen, animación y video para la Web
+
+Clase 10 → 12/10/2020 → Lenguajes descriptivos para la web: HTML y CSS
+
+Clase 11 → 19/10/2020 → Lenguaje de programación para la web: Javascript y bibliotecas
+
+Clase 12 → 26/10/2020 → Definición de tema a desarrollar
+
+Clase 13 → 02/11/2020 → Investigación y observación
+
+Clase 14 → 09/11/2020 → Planificación del trabajo a través del boceto
+
+Clase 15 → 16/11/2020 → Del boceto al prototipo 
+
+Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte digital
+
+Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
+
+- - - - - - - - - -
+
+
 #### Bibliografía (con ajustes por versión en línea)
 
 **Mínima**
