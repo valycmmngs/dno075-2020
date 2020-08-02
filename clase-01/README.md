@@ -58,13 +58,19 @@ Para describir o programar, necesitamos editores de código fuente. Se recomiend
 
 - [Brakets](http://brackets.io/) - Editor de texto open-source para desarrolladores FrontEnd que trabajen con HTML, CSS y JavaScript.
 
-El listado está organizado según preferencia; prefiera el primero, si no puede conseguir, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero.
+El listado está organizado según preferencia; prefiera el primero, si no puede obtenerlo, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero.
 
 - - - - - - - 
 
 #### Ejercicio
 
 Para identificar ejemplos de lo que se aborda en la clase, cada estudiante debe seleccionar de 5 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí y con el texto, y que se indique la fuente de origen de cada imagen.
+
+En título y texto, prefiera seguir estas recomendaciones: 
+
+- https://www.nngroup.com/videos/biggest-mistake-writing-web/
+
+- https://www.nngroup.com/videos/plain-language-for-experts/
 
 La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando los archivos compartida en esta carpeta de repositorio; este podría ser su primer trabajo de *coding* ¡No desespere! Solo siga las instrucciones o solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/). Si necesita ayuda del profesor, ya deben tener su trabajo en un repositorio.
 
