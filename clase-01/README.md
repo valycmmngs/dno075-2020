@@ -34,6 +34,16 @@ Una vez creada la cuenta, es necesario crear un primer repositorio con GitHub:
 
 - Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
 
+Dos referencias que les podrían ser útiles ahora: 
+
+- [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
+
+- [Daniel Shiffman explica en YouTube como configurar una GitHub Page](https://youtu.be/bFVtrlyH-kc)
+
+Y una que nos será útil más adelante: 
+
+- [Configurar GitHub Pages para usar dominios.cl](https://medium.com/@ggerena/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
+
 - - - - - - - 
 
 #### Coding (descripción v/s programación)
@@ -58,13 +68,6 @@ Para abordar e identificar ejemplos para lo que se presenta en la clase, cada es
 
 La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando los archivos compartida en esta carpeta de repositorio; este podría ser su primer trabajo de *coding* ¡No desespere! Solo siga las instrucciones o solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
-- - - - - - -
-
-#### Referencias
-
-- [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
-
-- [Daniel Shiffman explica en YouTube como configurar una GitHub Page](https://youtu.be/bFVtrlyH-kc)
 
 - - - - - - - 
 
