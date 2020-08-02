@@ -46,6 +46,29 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 - - - - - - - - - -
 
+#### Referencias en línea
+
+**Bases**
+
+- [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/)
+- [Periodic table of visualization methods](http://www.visual-literacy.org/periodic_table/periodic_table.html )
+
+**Expertas/os**
+
+- Alberto Cairo - http://www.thefunctionalart.com/
+- Giorgia Lupi - http://giorgialupi.com/ 
+- David McCandless - https://informationisbeautiful.net/
+- Sheila Pontis - https://sheilapontis.wordpress.com/
+- Nadja Popovich - https://www.nytimes.com/by/nadja-popovich
+- Stefanie Posavec - http://www.stefanieposavec.com/
+
+**Antecedentes/Referencias**
+
+- [Info We Trust](https://infowetrust.com/essays): A creative studio that makes powerful data stories that inspire. Our craft is fueled by design and science.
+- [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
+- [Tabletop Whale](http://tabletopwhale.com/): An original science illustration blog
+
+- - - - - - - - - -
 
 #### Bibliografía (con ajustes por versión en línea)
 
@@ -78,32 +101,3 @@ Tufte, Edward (1983). The Visual Display of Quantitative Information. Graphic Pr
 Tufte, Edward (1990). Envisioning Information. Graphic Press.
 
 Wiedemann, Julius (2016) National Geographic Infographics. Colonia: Taschen.
-
-#### Referencias en línea
-
-**Bases**
-
-- [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/)
-- [Periodic table of visualization methods](http://www.visual-literacy.org/periodic_table/periodic_table.html )
-
-**Expertas/os**
-
-- Alberto Cairo - http://www.thefunctionalart.com/
-- Giorgia Lupi - http://giorgialupi.com/ 
-- David McCandless - https://informationisbeautiful.net/
-- Sheila Pontis - https://sheilapontis.wordpress.com/
-- Nadja Popovich - https://www.nytimes.com/by/nadja-popovich
-- Stefanie Posavec - http://www.stefanieposavec.com/
-
-**Antecedentes/Referencias**
-
-- [Info We Trust](https://infowetrust.com/essays): A creative studio that makes powerful data stories that inspire. Our craft is fueled by design and science.
-- [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
-- [Tabletop Whale](http://tabletopwhale.com/): An original science illustration blog
-
-
-- - - - - - - - -
-
-**Tips**
-
-- [Configurar GitHub Pages para usar dominios.cl](https://medium.com/@ggerena/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
