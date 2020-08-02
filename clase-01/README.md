@@ -10,7 +10,9 @@ Las primeras tres clases de este Optativo se dividen en:
 
 - **Referente…** 1. adj. Que refiere o que expresa relación a algo.
 
-En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación). Esta primera clase, de "Precedentes: Del texto iluminado al diseño de información", se basa en:
+En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación). 
+
+Esta primera clase, de "Precedentes: Del texto iluminado al diseño de información", se basa en:
  
 - Cairo, A. (2019). *How Charts Lie. Getting Smarter about Visual Information*. New York, NY: W.W. Norton & Company
 
