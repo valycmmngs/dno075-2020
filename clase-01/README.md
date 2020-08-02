@@ -4,7 +4,7 @@
 
 Las primeras tres clases de este Optativo se dividen en:
 
-- **Precendente…** 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
+- **Precedente…** 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
 - **Antecedente…** 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
 
