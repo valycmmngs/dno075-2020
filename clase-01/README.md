@@ -47,16 +47,15 @@ El listado está organizado según preferencia; prefiera el primero, si no puede
 
 #### Ejercicio
 
-Para abordar e identificar ejemplos paro lo que presente en la clase, cada estudiante debe seleccionar de 3 a 6 imágenes, que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darle un hilo conductor a las imágenes seleccionadas; se espera que las imágenes incluidas en el foto-ensayo guarden relación entre sí y con el texto, y que se indique la fuente de origen de cada imagen.
+Para abordar e identificar ejemplos para lo que presenta en la clase, cada estudiante debe seleccionar de 5 a 10 imágenes, que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darle un hilo conductor; se espera que las imágenes guarden relación entre sí y con el texto, y que se indique la fuente de origen de cada imagen.
 
-Para publicar este ejercicio, debe usear GitHub Pages, aprovechando la estructura de archivos compartida en esta carpeta de repositorio.
+La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando la estructura de archivos compartida en esta carpeta de repositorio.
 
 - - - - - - -
 
 #### Referencias
 
-**Bibliografía**
-
+##### Bibliografía
  
 - Cairo, A. (2019). *How Charts Lie. Getting Smarter about Visual Information*. New York, NY: W.W. Norton & Company
 
@@ -64,8 +63,7 @@ Para publicar este ejercicio, debe usear GitHub Pages, aprovechando la estructur
 
 - Chiuminatto, P. (2013). René Descartes. *El método de las figuras. Imaginario visual e ilustración científica*. Santiago de Chile: Orjikh editores limitada.
 
-
-**Otras referencias**
+##### Otras referencias
 
 - [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
 
