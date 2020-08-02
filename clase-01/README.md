@@ -24,9 +24,9 @@ Esta primera clase, de "**Precedentes: Del texto iluminado al diseño de informa
 
 #### Github
 
-Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones [Git](https://git-scm.com/). Con el trabajo en repositorios, se puede llevar registro de cambios en archivos compartidos, para coordinar el trabajo entre varias personas.
+Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones [Git](https://git-scm.com/). Con el trabajo en repositorios, se puede llevar registro de cambios en archivos compartidos.
 
-Es necesario que cada estudiante en Infografía Digital tenga [su cuenta personal en GitHub](https://github.com/join).
+Cada estudiante en Infografía Digital debe tener [su cuenta en GitHub](https://github.com/join).
 
 Una vez creada la cuenta, es necesario crear un primer repositorio con GitHub: 
 
