@@ -10,7 +10,13 @@ Las primeras tres clases de este Optativo se dividen en:
 
 - **Referente…** 1. adj. Que refiere o que expresa relación a algo.
 
-En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación).
+En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación). Esta primera clase, de "Precedentes: Del texto iluminado al diseño de información", se basa en:
+ 
+- Cairo, A. (2019). *How Charts Lie. Getting Smarter about Visual Information*. New York, NY: W.W. Norton & Company
+
+- Casanueva, M. & Bolaños, B. (2009). *El giro pictórico: Epistemología de la Imagen*. Barcelona: Anthropos Editorial. 
+
+- Chiuminatto, P. (2013). *René Descartes. El método de las figuras. Imaginario visual e ilustración científica*. Santiago de Chile: Orjikh editores limitada.
 
 - - - - - - - 
 
@@ -42,28 +48,17 @@ Para describir o porgramar, necesitamos editores de código fuente. Se recomiend
 
 El listado está organizado según preferencia; prefiera el primero, si no puede conseguir, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero.
 
-
 - - - - - - - 
 
 #### Ejercicio
 
 Para abordar e identificar ejemplos para lo que presenta en la clase, cada estudiante debe seleccionar de 5 a 10 imágenes, que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darle un hilo conductor; se espera que las imágenes guarden relación entre sí y con el texto, y que se indique la fuente de origen de cada imagen.
 
-La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando la estructura de archivos compartida en esta carpeta de repositorio; este podría ser su primer trabajo de *coding* ¡No se desespere! Solo siga las instrucciones o solicite ayuda a compañeras/os que hayan aprobado el curso de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
+La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando la estructura de archivos compartida en esta carpeta de repositorio; este podría ser su primer trabajo de *coding* ¡No desespere! Solo siga las instrucciones o solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
 - - - - - - -
 
 #### Referencias
-
-##### Bibliografía
- 
-- Cairo, A. (2019). *How Charts Lie. Getting Smarter about Visual Information*. New York, NY: W.W. Norton & Company
-
-- Casanueva, M. & Bolaños, B. (2009). *El giro pictórico: Epistemología de la Imagen*. Barcelona: Anthropos Editorial. 
-
-- Chiuminatto, P. (2013). René Descartes. *El método de las figuras. Imaginario visual e ilustración científica*. Santiago de Chile: Orjikh editores limitada.
-
-##### Otras referencias
 
 - [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
 
