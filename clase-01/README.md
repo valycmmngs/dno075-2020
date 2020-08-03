@@ -14,7 +14,7 @@ En estas tres primeras clase tendrán que usar GitHub y algún editor de código
 
 En esta primera clase, de "**Precedentes: Del texto iluminado al diseño de información**", se consulta la siguiente bibliografía:
  
-- Cairo, A. (2019). *How Charts Lie. Getting Smarter about Visual Information*. New York, NY: W.W. Norton & Company
+- Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya
 
 - Casanueva, M. & Bolaños, B. (2009). *El giro pictórico: Epistemología de la Imagen*. Barcelona: Anthropos Editorial. 
 
