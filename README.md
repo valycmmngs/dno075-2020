@@ -74,30 +74,22 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 **Mínima**
 
-Cairo, Alberto (2008). Infografía 2.0. Alamut.
+Cairo, Alberto (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
-Cairo, Alberto (2011). El arte funcional: Infografía y visualización de información. Madrid: Alamut
+Meirelles, Isabel (2013). *Design for Information: An Introduction to the histories, theories, and best practices behind effective information visualizations*. Beverly, MA: Rockport Publishers.
 
-Meirelles, Isabel (2013). Design for Information: An Introduction to the histories, theories, and best practices behind effective information visualizations. Beverly, MA: Rockport Publishers.
-
-Roam, Dan (2008) The Back of the Napkin: Solving Problems and Selling Ideas with Pictures. Portfolio
+Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*. Portfolio
 
 **Complementaria**
 
-Errea, Javier (2017) Visual Journalism: Infographics from the World's Best Newsrooms and Designers. Berlin: Gestalten
+Cairo, Alberto (2008). *Infografía 2.0*. Madrid: Alamut.
 
-Finke, T., Manger, S., & Fichtel, S. (2012). Informotion: Animated infographics. Gestalten.
+Cairo, Alberto (2011). *El arte funcional: Infografía y visualización de información*. Madrid: Alamut
 
-Franchi, Francesco (2013). Designing News: Changing the World of Editorial Design and Information Graphics. Berlin: Gestalten
+Errea, Javier (2017). *Visual Journalism: Infographics from the World's Best Newsrooms and Designers*. Berlin: Gestalten
 
-Johnson, Jeff (2010). Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules. Burlington, MA: Elsevier
+Finke, T., Manger, S., & Fichtel, S. (2012). *Informotion: Animated infographics*. Berlin: Gestalten.
 
-Leborg, Christian (2014). Gramática visual. Barcelona: Gustavo Gili.
+Franchi, Francesco (2013). *Designing News: Changing the World of Editorial Design and Information Graphics*. Berlin: Gestalten
 
-McCarthy, L., Reas, C., & Fry, B. (2015) Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing. Maker Media.
-
-Tufte, Edward (1983). The Visual Display of Quantitative Information. Graphic Press.
-
-Tufte, Edward (1990). Envisioning Information. Graphic Press.
-
-Wiedemann, Julius (2016) National Geographic Infographics. Colonia: Taschen.
+Wiedemann, Julius (2016) *National Geographic Infographics*. Colonia: Taschen.
