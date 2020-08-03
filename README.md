@@ -24,7 +24,7 @@ Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen
 
 Clase 07 → 21/09/2020 → SEMANA DE RECESO UNIVERSITARIO
 
-Clase 08 → 28/09/2020 → De Ilustración vectorial a Gráficos vectoriales escalables
+Clase 08 → 28/09/2020 → Desde Ilustración vectorial a Gráficos vectoriales escalables (SVG)
 
 Clase 09 → 05/10/2020 → Lenguajes descriptivos para la web: HTML y CSS 
 
