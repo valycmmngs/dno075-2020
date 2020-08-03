@@ -24,13 +24,13 @@ Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen
 
 Clase 07 → 21/09/2020 → SEMANA DE RECESO UNIVERSITARIO
 
-Clase 08 → 28/09/2020 → Exploración de elementos, relaciones y configuraciones visuales con P5.JS
+Clase 08 → 28/09/2020 → De Ilustración vectorial a Gráficos vectoriales escalables
 
-Clase 09 → 05/10/2020 → Formatos de imagen, animación y video para la Web
+Clase 09 → 05/10/2020 → Lenguajes descriptivos para la web: HTML y CSS 
 
-Clase 10 → 12/10/2020 → Lenguajes descriptivos para la web: HTML y CSS
+Clase 10 → 12/10/2020 → Lenguaje de programación para la web: Javascript y bibliotecas
 
-Clase 11 → 19/10/2020 → Lenguaje de programación para la web: Javascript y bibliotecas
+Clase 11 → 19/10/2020 → Formatos de imagen, animación y video para la Web
 
 Clase 12 → 26/10/2020 → Definición de tema a desarrollar
 
