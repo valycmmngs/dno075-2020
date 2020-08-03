@@ -50,6 +50,8 @@ Y una que será útil más adelante:
 
 Cuando trabajamos con código fuente podemos describir o programar. **[HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML) y [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS) no son lenguajes de programación**. [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), Phyton, Ruby, PHP sí lo son; con estos últimos sí se programa.
 
+Si esta es la primera vez que utilizarás HTML y CSS para describir, y JavaScript para programar: Te vendría bien [revisar el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2020/wiki).
+
 Para describir o programar, necesitamos editores de código fuente. Se recomienda usar:  
 
 - [Atom.io](https://atom.io/) - Editor de texto multiplataforma (Windows, Linux, and Mac), libre y open-source, desarrollado por los creadores de GitHub. 
