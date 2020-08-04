@@ -29,7 +29,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 - https://www.nngroup.com/videos/plain-language-for-experts/
 
-La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando los archivos compartida en esta carpeta de repositorio.
+**La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-02/) de repositorio**.
 
 
 - - - - - - - 
