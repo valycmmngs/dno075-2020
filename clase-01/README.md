@@ -74,7 +74,9 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 - https://www.nngroup.com/videos/plain-language-for-experts/
 
-La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando los archivos compartidos en esta carpeta de repositorio; este podría ser su primer trabajo de *coding* ¡No desespere! Solo siga las instrucciones o solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/). Si necesita ayuda de los profesores o ayudante, ya deben tener su trabajo en un repositorio.
+La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2020/clase-01/).
+
+Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las instrucciones: haz los reemplazos donde se indique. Puedes solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/). Si necesita ayuda de los profesores o ayudante, debes tener tu trabajo en un repositorio.
 
 
 - - - - - - - 
