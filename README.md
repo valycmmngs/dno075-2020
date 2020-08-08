@@ -54,7 +54,7 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 - Trabajo final de aplicación: Desarrollo y publicación de storytelling digital: 40%
 
-**Por ajuste de clases remotas, se entrega**
+**Por ajuste de clases remotas, se considera**
 
 - Trabajos de aplicación entre clases 01 y 06, puntuación acumulativa, con máximo 1.0 por trabajo desarrollado en cada clase y 1.0 como punto base (40%) 
 
