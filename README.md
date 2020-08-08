@@ -56,15 +56,15 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 **Por ajuste de clases remotas, se entrega**
 
-- Trabajos de aplicación entre clases 01 y 06, con máximo 1.0 por trabajo desarrollado en cada clase (40%) 
+- Trabajos de aplicación entre clases 01 y 06, puntuación acumulativa, con máximo 1.0 por trabajo desarrollado en cada clase y 1.0 como punto base (40%) 
 
-- Trabajo de investigación en ingeniería inversa → Clase 11 → 19/10/2020 (20%)
+- Trabajo de investigación en ingeniería inversa, con nota entre 1.0 y 7.0 - Se entregará rúbrica → Clase 11 → 19/10/2020 (20%)
 
 - Trabajo final (40%), dividido en dos partes: 
 
-  - Desarrollado entre clases 12 y 16, con máximo de 1.0 por trabajo desarrollado en cada clase (20%)
+  - Desarrollado entre clases 12 y 16, puntuación acumulativa con máximo de 1.0 por trabajo desarrollado en cada clase y 2.0 como puntos base.(20%)
 
-  - Resultado final, a entregar en clase 17, con nota entre 1.0 y 7.0 (20%)
+  - Resultado final, a entregar en clase 17, con nota entre 1.0 y 7.0. Se entregará pauta de cotejo (20%)
 
 - - - - - - - - - - 
 
