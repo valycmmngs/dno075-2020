@@ -83,6 +83,7 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 - Sheila Pontis - https://sheilapontis.wordpress.com/
 - Nadja Popovich - https://www.nytimes.com/by/nadja-popovich
 - Stefanie Posavec - http://www.stefanieposavec.com/
+- Mario Zafra - http://www.marianozafra.com/
 
 **Antecedentes/Referencias**
 
