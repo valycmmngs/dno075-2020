@@ -62,9 +62,9 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 - Trabajo final (40%), dividido en dos partes: 
 
-- - Desarrollado entre clases 12 y 16, con máximo de 1.0 por trabajo desarrollado en cada clase (20%)
+ - Desarrollado entre clases 12 y 16, con máximo de 1.0 por trabajo desarrollado en cada clase (20%)
 
-- - Resultado final, a entregar en clase 17, con nota entre 1.0 y 7.0 (20%)
+ - Resultado final, a entregar en clase 17, con nota entre 1.0 y 7.0 (20%)
 
 - - - - - - - - - - 
 
