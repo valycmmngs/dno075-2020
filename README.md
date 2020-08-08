@@ -30,7 +30,7 @@ Clase 09 → 05/10/2020 → Lenguajes descriptivos para la web: HTML y CSS
 
 Clase 10 → 12/10/2020 → Lenguaje de programación para la web: Javascript y bibliotecas
 
-Clase 11 → 19/10/2020 → Formatos de imagen, animación y video para la Web
+Clase 11 → 19/10/2020 → Trabajo de Investigación en ingeniería inversa
 
 Clase 12 → 26/10/2020 → Definición de tema a desarrollar
 
@@ -45,6 +45,28 @@ Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte 
 Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 - - - - - - - - - -
+
+#### En el programa original, se establecen las siguientes evaluaciones.
+
+- Trabajos de aplicación a desarrollarse clase a clase: 40%
+
+- Trabajo de Investigación: 20%
+
+- Trabajo final de aplicación: Desarrollo y publicación de storytelling digital: 40%
+
+**Por ajuste de clases remotas, se entrega**
+
+- Trabajos de aplicación entre clases 01 y 06, con máximo 1.0 por trabajo desarrollado en cada clase (40%) 
+
+- Trabajo de investigación en ingeniería inversa → Clase 11 → 19/10/2020 (20%)
+
+- Trabajo final (40%), dividido en dos partes: 
+
+- - Desarrollado entre clases 12 y 16, con máximo de 1.0 por trabajo desarrollado en cada clase (20%)
+
+- - Resultado final, a entregar en clase 17, con nota entre 1.0 y 7.0 (20%)
+
+- - - - - - - - - - 
 
 #### Referencias en línea
 
