@@ -20,33 +20,33 @@ Clase 04 → 31/08/2020 → El boceto: Herramientas de dibujo en función de la 
 
 Clase 05 → 07/09/2020 → Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial.
 
-Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen
+Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen → Cierre de puntuación acumulativa (primera nota, 25% del promedio)
 
-Clase 07 → 21/09/2020 → SEMANA DE RECESO UNIVERSITARIO
+**Clase 07 → 21/09/2020 → Semana de receso de las actividades universitarias.**
 
-Clase 08 → 28/09/2020 → Desde Ilustración vectorial a Scalable Vector Graphics (SVG)
+Clase 08 → 28/09/2020 → Desde Ilustración vectorial a Scalable Vector Graphics (SVG).
 
-Clase 09 → 05/10/2020 → Lenguajes descriptivos para la web: HTML y CSS 
+Clase 09 → 05/10/2020 → Coding: HTML, CSS y JavaScript. 
 
-Clase 10 → 12/10/2020 → Lenguaje de programación para la web: Javascript y bibliotecas
+**Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.**
 
-Clase 11 → 19/10/2020 → Trabajo de Investigación en ingeniería inversa
+Clase 11 → 19/10/2020 → Trabajo de Investigación: Ingeniería inversa → Calificación (segunda nota, 25% del promedio)
 
-Clase 12 → 26/10/2020 → Definición de tema a desarrollar
+Clase 12 → 26/10/2020 → Definición de tema a desarrollar.
 
-Clase 13 → 02/11/2020 → Investigación y observación
+Clase 13 → 02/11/2020 → Investigación y observación.
 
-Clase 14 → 09/11/2020 → Planificación del trabajo a través del boceto
+Clase 14 → 09/11/2020 → Planificación del trabajo a través del boceto.
 
-Clase 15 → 16/11/2020 → Del boceto al prototipo 
+Clase 15 → 16/11/2020 → Del boceto al prototipo.
 
-Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte digital
+Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte digital → Cierre de puntuación acumulativa (tercera nota, 25% del promedio)
 
-Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
+Clase 17 → 30/11/2020 → Entrega final (cuarta nota, 25% del promedio)
 
 - - - - - - - - - -
 
-#### En el programa original, se establecen las siguientes evaluaciones.
+#### En el programa original, se establecen las siguientes evaluaciones:
 
 - Trabajos de aplicación a desarrollarse clase a clase: 40%
 
@@ -54,17 +54,17 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 - Trabajo final de aplicación: Desarrollo y publicación de storytelling digital: 40%
 
-**Por ajuste de clases remotas, se considera**
+**En el formato de clases remotas, las evaluaciones se ajustarán de la siguiente manera:**
 
-- Trabajos de aplicación entre clases 01 y 06, puntuación acumulativa, con máximo 1.0 por trabajo desarrollado en cada clase y 1.0 como punto base (40%) 
+- Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 06. Un punto por trabajo + un punto base. Equivale al 25% del promedio final. 
 
-- Trabajo de investigación en ingeniería inversa, con nota entre 1.0 y 7.0. Se entregará rúbrica (20%)
+- Trabajo de investigación: Ingeniería inversa → A desarrollar en la clase 11. Se entregará rúbrica para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
 
-- Trabajo final (40%), dividido en dos partes: 
+- Trabajo final de aplicación, dividido en dos partes: 
 
-  - Desarrollado entre clases 12 y 16, puntuación acumulativa con máximo de 1.0 por trabajo desarrollado en cada clase y 2.0 como puntos base.(20%)
+  - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 12 y 16. Un punto por trabajo + dos puntos base. Equivale al 25% del promedio final.
 
-  - Resultado final, a entregar en clase 17, con nota entre 1.0 y 7.0. Se entregará pauta de cotejo (20%)
+  - Resultado final en línea → A presentar en la clase 17. Se entregará pauta de cotejo para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
 
 - - - - - - - - - - 
 
@@ -93,7 +93,7 @@ Clase 17 → 30/11/2020 → SEMANA DE ENTREGAS DE CURSOS MÍNIMOS Y OPR
 
 - - - - - - - - - -
 
-#### Bibliografía (con ajustes por versión en línea)
+#### Bibliografía (con ajustes por formato de clases remotas)
 
 **Mínima**
 
