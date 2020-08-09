@@ -20,7 +20,7 @@ Clase 04 → 31/08/2020 → El boceto: Herramientas de dibujo en función de la 
 
 Clase 05 → 07/09/2020 → Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial.
 
-Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen → Cierre de puntuación acumulativa (primera nota, 25% del promedio)
+Clase 06 → 14/09/2020 → Ilustración vectorial para animaciones e imagen.
 
 **Clase 07 → 21/09/2020 → Semana de receso de las actividades universitarias.**
 
@@ -30,7 +30,7 @@ Clase 09 → 05/10/2020 → Coding: HTML, CSS y JavaScript.
 
 **Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.**
 
-Clase 11 → 19/10/2020 → Trabajo de Investigación: Ingeniería inversa → Calificación (segunda nota, 25% del promedio)
+Clase 11 → 19/10/2020 → Trabajo de Investigación: Ingeniería inversa.
 
 Clase 12 → 26/10/2020 → Definición de tema a desarrollar.
 
@@ -40,9 +40,9 @@ Clase 14 → 09/11/2020 → Planificación del trabajo a través del boceto.
 
 Clase 15 → 16/11/2020 → Del boceto al prototipo.
 
-Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte digital → Cierre de puntuación acumulativa (tercera nota, 25% del promedio)
+Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte digital.
 
-Clase 17 → 30/11/2020 → Entrega final (cuarta nota, 25% del promedio)
+Clase 17 → 30/11/2020 → Entrega final, en línea.
 
 - - - - - - - - - -
 
