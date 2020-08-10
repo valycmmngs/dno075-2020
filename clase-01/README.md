@@ -93,7 +93,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 8 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
 | 9 | Erika Contreras | pendiente |
 | 10 | María José Coudeu | https://mjcoudeu.github.io/ejercicio-1/ |
-| 11 | Valy Cummings | pendiente |
+| 11 | Valy Cummings | https://valycmmngs.github.io/infografia_digital_1/ |
 | 12 | Catalina Escudero | pendiente | 
 | 13 | Olga F. Vio | https://caracolga.github.io/clase1/ |
 | 14 | Fernando Gajardo | https://fjgajardo.github.io/ |
