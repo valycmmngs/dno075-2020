@@ -108,7 +108,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-01/ |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-01/ |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia1/ |
-| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-01/ | 
+| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-01-2/ | 
 | 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase1/ |
 | 28 | Isidora Ravera | https://isiravera.github.io/clase1/ | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital/ | 
