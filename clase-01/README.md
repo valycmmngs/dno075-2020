@@ -86,7 +86,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-1/ |
 | 2 | Antonia Adell | https://antoadell.github.io/adell-infodigital/ |
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia/ | 
-| 4 | Carolina Aranibar | pendiente | 
+| 4 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigital/ | 
 | 5 | Silvio Arribas | pendiente |
 | 6 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
 | 7 | Dessiree Cifuentes | https://desscarol.github.io/Clase_01_Info_Digital/ |
