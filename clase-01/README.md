@@ -81,7 +81,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 
 **Resultados**
 
-| Nro.  | NOMBRE | Ejercicio |
+| Nro.  | Nombre | Ejercicio |
 |:-----:|:-------|:--------|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-1/ |
 | 2 | Antonia Adell | https://antoadell.github.io/adell-infodigital/ |
