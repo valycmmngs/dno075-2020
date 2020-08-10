@@ -12,7 +12,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación). 
 
-En esta primera clase, de "**Precedentes: Del texto iluminado al diseño de información**", se consulta la siguiente bibliografía:
+En esta primera clase, de "[Precedentes: Del texto iluminado al diseño de información](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing)", se consulta la siguiente bibliografía:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
@@ -66,7 +66,7 @@ El listado está organizado según preferencia; prefiera el primero, si no puede
 
 #### Ejercicio
 
-Para identificar ejemplos de lo que se aborda en la clase, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+Para identificar ejemplos de lo que se aborda en [la clase](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing), cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
 
 En lo que escribas, prefiera cumplir con estas recomendaciones: 
 
