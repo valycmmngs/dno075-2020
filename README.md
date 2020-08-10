@@ -97,6 +97,8 @@ Clase 17 → 30/11/2020 → Entrega final, en línea.
 
 **Mínima**
 
+Cairo, Alberto (2011). *El arte funcional: Infografía y visualización de información*. Madrid: Alamut
+
 Cairo, Alberto (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
 Meirelles, Isabel (2013). *Design for Information: An Introduction to the histories, theories, and best practices behind effective information visualizations*. Beverly, MA: Rockport Publishers.
@@ -106,8 +108,6 @@ Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas wi
 **Complementaria**
 
 Cairo, Alberto (2008). *Infografía 2.0*. Madrid: Alamut.
-
-Cairo, Alberto (2011). *El arte funcional: Infografía y visualización de información*. Madrid: Alamut
 
 Errea, Javier (2017). *Visual Journalism: Infographics from the World's Best Newsrooms and Designers*. Berlin: Gestalten
 
