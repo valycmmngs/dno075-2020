@@ -103,7 +103,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 18 | Sofía Lira | pendiente |
 | 19 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
 | 20 | Karla Mancini | https://kamancini.github.io/Clase-01/ |
-| 21 | Karina Melani | pendiente |
+| 21 | Karina Melani | https://karinamelani.github.io/Ejercicio_1/ |
 | 22 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-01/ |
 | 23 | Rosario Olivares | https://rosarioof.github.io/Infografia-01/ |
 | 24 | Joaquín Olmedo | pendiente |
