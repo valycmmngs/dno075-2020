@@ -85,11 +85,11 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 |:-----:|:-------|:--------|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-1/ |
 | 2 | Antonia Adell | https://antoadell.github.io/adell-infodigital/ |
-| 3 | Ignacio Agurto | pendiente | 
+| 3 | Ignacio Agurto | https://iagurto.github.io/infografia/ | 
 | 4 | Carolina Aranibar | pendiente | 
 | 5 | Silvio Arribas | pendiente |
 | 6 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
-| 7 | Dessiree Cifuentes | pendiente |
+| 7 | Dessiree Cifuentes | https://desscarol.github.io/Clase_01_Info_Digital/ |
 | 8 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
 | 9 | Erika Contreras | pendiente |
 | 10 | María José Coudeu | https://mjcoudeu.github.io/ejercicio-1/ |
@@ -100,13 +100,13 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 15 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
 | 16 | María Fernanda Herández | pendiente |
 | 17 | Antonia Lasen | pendiente |
-| 18 | Sofía Lira | pendiente |
+| 18 | Sofía Lira | https://lirasantic.github.io/ |
 | 19 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
 | 20 | Karla Mancini | https://kamancini.github.io/Clase-01/ |
 | 21 | Karina Melani | https://karinamelani.github.io/Ejercicio_1/ |
 | 22 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-01/ |
 | 23 | Rosario Olivares | https://rosarioof.github.io/Infografia-01/ |
-| 24 | Joaquín Olmedo | pendiente |
+| 24 | Joaquín Olmedo | https://joacolmedo.github.io/infografia1/ |
 | 25 | Francizco Pezoa | https://panshios.github.io/id-clase-01/ | 
 | 26 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase1/ |
 | 27 | Isidora Ravera | https://isiravera.github.io/clase1/ | 
