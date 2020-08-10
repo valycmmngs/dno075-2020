@@ -88,7 +88,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia/ | 
 | 4 | Francisco Álvarez | pendiente |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigital/ | 
-| 6 | Silvio Arribas | pendiente |
+| 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ |
 | 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
 | 8 | Dessiree Cifuentes | https://desscarol.github.io/Clase_01_Info_Digital/ |
 | 9 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
