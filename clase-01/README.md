@@ -112,7 +112,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 27 | Isidora Ravera | https://isiravera.github.io/clase1/ | 
 | 28 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital/ | 
 | 29 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-1/ |
-| 30 | David Sánchez | pendiente |
+| 30 | David Sánchez | https://david1336.github.io/DNO-075-Clase-01/ |
 | 31 | Josefina Stuckrath | pendiente |
 | 32 | Paula Trujillo | pendiente |
 | 33 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
