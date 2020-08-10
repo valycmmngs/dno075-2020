@@ -79,6 +79,45 @@ En lo que escribas, prefiera cumplir con estas recomendaciones:
 Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las instrucciones: haz los reemplazos donde se indique. Puedes solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/). Si necesita ayuda de los profesores o ayudante, debes tener tu trabajo en un repositorio.
 
 
+**Resultados**
+
+| Nro.  | NOMBRE | Ejercicio |
+|:-----:|:-------|:--------|
+| 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-1/ |
+| 2 | Antonia Adell | https://antoadell.github.io/adell-infodigital/ |
+| 3 | Ignacio Agurto | pendiente | 
+| 4 | Carolina Aranibar | pendiente | 
+| 5 | Silvio Arribas | pendiente |
+| 6 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
+| 7 | Dessiree Cifuentes | pendiente |
+| 8 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
+| 9 | Erika Contreras | pendiente |
+| 10 | María José Coudeu | https://mjcoudeu.github.io/ejercicio-1/ |
+| 11 | Valy Cummings | pendiente |
+| 12 | Catalina Escudero | pendiente | 
+| 13 | Olga F. Vio | https://caracolga.github.io/clase1/ |
+| 14 | Fernando Gajardo | https://fjgajardo.github.io/ |
+| 15 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
+| 16 | María Fernanda Herández | pendiente |
+| 17 | Antonia Lasen | pendiente |
+| 18 | Sofía Lira | pendiente |
+| 19 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
+| 20 | Karla Mancini | https://kamancini.github.io/Clase-01/ |
+| 21 | Karina Melani | pendiente |
+| 22 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-01/ |
+| 23 | Rosario Olivares | https://rosarioof.github.io/Infografia-01/ |
+| 24 | Joaquín Olmedo | pendiente |
+| 25 | Francizco Pezoa | https://panshios.github.io/id-clase-01/ | 
+| 26 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase1/ |
+| 27 | Isidora Ravera | https://isiravera.github.io/clase1/ | 
+| 28 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital/ | 
+| 29 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-1/ |
+| 30 | David Sánchez | pendiente |
+| 31 | Josefina Stuckrath | pendiente |
+| 32 | Paula Trujillo | pendiente |
+| 33 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
+| 34 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
+
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02)
