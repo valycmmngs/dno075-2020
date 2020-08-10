@@ -66,7 +66,7 @@ El listado está organizado según preferencia; prefiera el primero, si no puede
 
 #### Ejercicio
 
-Para identificar ejemplos de lo que se aborda en [la clase](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing), cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+**Para identificar ejemplos de lo que se aborda en [la clase](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing)**, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
 
 En lo que escribas, prefiera cumplir con estas recomendaciones: 
 
@@ -114,7 +114,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital/ | 
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-1/ |
 | 31 | David Sánchez | https://david1336.github.io/DNO-075-Clase-01/ |
-| 32 | Josefina Stuckrath | pendiente |
+| 32 | Josefina Stuckrath | https://jstuckrath.github.io/clase-1/ |
 | 33 | Paula Trujillo | pendiente |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
