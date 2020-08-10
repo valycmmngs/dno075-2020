@@ -99,7 +99,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 14 | Olga F. Vio | https://caracolga.github.io/clase1/ |
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
-| 17 | María Fernanda Herández | pendiente |
+| 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase/ |
 | 18 | Antonia Lasen | pendiente |
 | 19 | Sofía Lira | https://lirasantic.github.io/ |
 | 20 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
