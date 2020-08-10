@@ -86,37 +86,38 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-1/ |
 | 2 | Antonia Adell | https://antoadell.github.io/adell-infodigital/ |
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia/ | 
-| 4 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigital/ | 
-| 5 | Silvio Arribas | pendiente |
-| 6 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
-| 7 | Dessiree Cifuentes | https://desscarol.github.io/Clase_01_Info_Digital/ |
-| 8 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
-| 9 | Erika Contreras | pendiente |
-| 10 | María José Coudeu | https://mjcoudeu.github.io/ejercicio-1/ |
-| 11 | Valy Cummings | https://valycmmngs.github.io/infografia_digital_1/ |
-| 12 | Catalina Escudero | pendiente | 
-| 13 | Olga F. Vio | https://caracolga.github.io/clase1/ |
-| 14 | Fernando Gajardo | https://fjgajardo.github.io/ |
-| 15 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
-| 16 | María Fernanda Herández | pendiente |
-| 17 | Antonia Lasen | pendiente |
-| 18 | Sofía Lira | https://lirasantic.github.io/ |
-| 19 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
-| 20 | Karla Mancini | https://kamancini.github.io/Clase-01/ |
-| 21 | Karina Melani | https://karinamelani.github.io/Ejercicio_1/ |
-| 22 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-01/ |
-| 23 | Rosario Olivares | https://rosarioof.github.io/Infografia-01/ |
-| 24 | Joaquín Olmedo | https://joacolmedo.github.io/infografia1/ |
-| 25 | Francizco Pezoa | https://panshios.github.io/id-clase-01/ | 
-| 26 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase1/ |
-| 27 | Isidora Ravera | https://isiravera.github.io/clase1/ | 
-| 28 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital/ | 
-| 29 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-1/ |
-| 30 | David Sánchez | https://david1336.github.io/DNO-075-Clase-01/ |
-| 31 | Josefina Stuckrath | pendiente |
-| 32 | Paula Trujillo | pendiente |
-| 33 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
-| 34 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
+| 4 | Francisco Álvarez | pendiente |
+| 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigital/ | 
+| 6 | Silvio Arribas | pendiente |
+| 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
+| 8 | Dessiree Cifuentes | https://desscarol.github.io/Clase_01_Info_Digital/ |
+| 9 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
+| 10 | Erika Contreras | pendiente |
+| 11 | María José Coudeu | https://mjcoudeu.github.io/ejercicio-1/ |
+| 12 | Valy Cummings | https://valycmmngs.github.io/infografia_digital_1/ |
+| 13 | Catalina Escudero | pendiente | 
+| 14 | Olga F. Vio | https://caracolga.github.io/clase1/ |
+| 15 | Fernando Gajardo | https://fjgajardo.github.io/ |
+| 16 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
+| 17 | María Fernanda Herández | pendiente |
+| 18 | Antonia Lasen | pendiente |
+| 19 | Sofía Lira | https://lirasantic.github.io/ |
+| 20 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
+| 21 | Karla Mancini | https://kamancini.github.io/Clase-01/ |
+| 22 | Karina Melani | https://karinamelani.github.io/Ejercicio_1/ |
+| 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-01/ |
+| 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-01/ |
+| 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia1/ |
+| 26 | Francizco Pezoa | https://panshios.github.io/id-clase-01/ | 
+| 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase1/ |
+| 28 | Isidora Ravera | https://isiravera.github.io/clase1/ | 
+| 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital/ | 
+| 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-1/ |
+| 31 | David Sánchez | https://david1336.github.io/DNO-075-Clase-01/ |
+| 32 | Josefina Stuckrath | pendiente |
+| 33 | Paula Trujillo | pendiente |
+| 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
+| 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
 
 - - - - - - - 
 
