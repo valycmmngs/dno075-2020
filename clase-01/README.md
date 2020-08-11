@@ -115,7 +115,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-1/ |
 | 31 | David Sánchez | https://david1336.github.io/DNO-075-Clase-01/ |
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-1/ |
-| 33 | Paula Trujillo | pendiente |
+| 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital/ |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
 
