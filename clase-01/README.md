@@ -86,7 +86,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-1/ |
 | 2 | Antonia Adell | https://antoadell.github.io/adell-infodigital/ |
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia/ | 
-| 4 | Francisco Álvarez | pendiente |
+| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-01-FARK/ |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigital/ | 
 | 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ |
 | 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
@@ -100,7 +100,7 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
 | 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase/ |
-| 18 | Antonia Lasen | pendiente |
+| 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_1/ |
 | 19 | Sofía Lira | https://lirasantic.github.io/ |
 | 20 | Javiera Maechtig | https://j-maechtig.github.io/javimaechtig/ |
 | 21 | Karla Mancini | https://kamancini.github.io/Clase-01/ |
