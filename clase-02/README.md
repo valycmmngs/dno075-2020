@@ -14,8 +14,11 @@ En estas tres primeras clase tendrán que usar GitHub y algún editor de código
 
 En esta segunda clase, de "**Antecedentes: Entre el diseño de información y el visual storytelling**", se consulta la siguiente bibliografía:
  
-(Pendiente)
+- Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
+- Franchi, F. (2013). *Designing News*. Berlin: Gestalten.
+
+- Meirelles, I. (2015). *Data Meets Viz Workshop*. En línea: http://rosuda.org/DMVslides-f/IsabelMeirelles_dataMeetViz.pdf
 
 - - - - - - - 
 
