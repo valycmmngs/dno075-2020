@@ -44,7 +44,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-02-FARK/ |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigitalclase2/ | 
 | 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ |
-| 7 | Isabella Cabrera | pendiente |
+| 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A-DIGITAL-2/ |
 | 8 | Dessiree Cifuentes | pendiente |
 | 9 | Debi Codriansky | https://debic.github.io/Clase-2-/ | 
 | 10 | Erika Contreras | https://erikaemm.github.io/t2_erika_contrera/ |
