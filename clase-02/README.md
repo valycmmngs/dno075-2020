@@ -36,43 +36,43 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 **Resultados**
 
-| Nro.  | Nombre | Ejercicio |
-|:-----:|:-------|:--------|
-| 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-2/ |
-| 2 | Antonia Adell | https://antoadell.github.io/clase2/ |
-| 3 | Ignacio Agurto | https://iagurto.github.io/infografia2/ | 
-| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-02-FARK/ |
-| 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigitalclase2/ | 
-| 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ |
-| 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A-DIGITAL-2/ |
-| 8 | Dessiree Cifuentes | pendiente |
-| 9 | Debi Codriansky | https://debic.github.io/Clase-2-/ | 
-| 10 | Erika Contreras | https://erikaemm.github.io/t2_erika_contrera/ |
-| 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio2/ |
-| 12 | Valy Cummings | https://valycmmngs.github.io/infograf-a_clase_2/ |
-| 13 | Catalina Escudero | pendiente | 
-| 14 | Olga F. Vio | https://caracolga.github.io/clase2/ |
-| 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase2/ |
-| 16 | Javiera González | https://javierapazgbas.github.io/clase-2/ |
-| 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase2/ |
-| 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_2/ |
-| 19 | Sofía Lira | https://lirasantic.github.io/infografia_2/ |
-| 20 | Javiera Maechtig | pendiente |
-| 21 | Karla Mancini | https://kamancini.github.io/Clase02/ |
-| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio2/ |
-| 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-02/ |
-| 24 | Rosario Olivares | pendiente |
-| 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia2/ |
-| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-02/ | 
-| 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase2/ |
-| 28 | Isidora Ravera | https://isiravera.github.io/clase-2/ | 
-| 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital2/ | 
-| 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ |
-| 31 | David Sánchez | pendiente |
-| 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ |
-| 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-2/ |
-| 34 | Rosario Valdés | pendiente |
-| 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ |
+| Nro.  | Nombre | Ejercicio | Tema |
+|:-----:|:-------|:----------|:-----|
+| 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-2/ | Herbert Bayer |
+| 2 | Antonia Adell | https://antoadell.github.io/clase2/ | Herbert Bayer |
+| 3 | Ignacio Agurto | https://iagurto.github.io/infografia2/ | Alejandro Malofiej |
+| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-02-FARK/ | Fritz Kahn | 
+| 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigitalclase2/ | Fritz Khan | 
+| 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ | Herbert Bayer | 
+| 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A-DIGITAL-2/ | Fortune Magazine |
+| 8 | Dessiree Cifuentes | https://desscarol.github.io/Info_Digital_Clase_02/ | Rose O'Neill |
+| 9 | Debi Codriansky | https://debic.github.io/Clase-2-/ | Herbert Bayer |
+| 10 | Erika Contreras | https://erikaemm.github.io/t2_erika_contrera/ | Fritz Kahn |
+| 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio2/ | National Geographic Infographics |
+| 12 | Valy Cummings | https://valycmmngs.github.io/infograf-a_clase_2/ | Fritz Kahn |
+| 13 | Catalina Escudero | pendiente | pendiente |
+| 14 | Olga F. Vio | https://caracolga.github.io/clase2/ | Fortune Magazine |
+| 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase2/ | Richard Edes Harrison |
+| 16 | Javiera González | https://javierapazgbas.github.io/clase-2/ | Herbert Bayer |
+| 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase2/ | Fritz Kahn |
+| 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_2/ | Fortune Magazine |
+| 19 | Sofía Lira | https://lirasantic.github.io/infografia_2/ | Fritz Kahn |
+| 20 | Javiera Maechtig | pendiente | pendiente |
+| 21 | Karla Mancini | https://kamancini.github.io/Clase02/ | John P. Emslie |
+| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio2/ | John Philipps |
+| 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-02/ | Fritz Kahn |
+| 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-02/ | Florence Nightgale |
+| 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia2/ | Fritz Kahn |
+| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-02/ | Alejandro Malofiej |
+| 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase2/ | ISOTYPE |
+| 28 | Isidora Ravera | https://isiravera.github.io/clase-2/ | Marie Neurath | 
+| 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital2/ | De todo un poco |
+| 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ | Fortune Magazine |
+| 31 | David Sánchez | pendiente | pendiente | 
+| 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ | De todo un poco |
+| 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-2/ | Herbert Bayer |
+| 34 | Rosario Valdés | pendiente | pendiente | 
+| 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ | Fritz Kahn |
 
 - - - - - - - 
 
