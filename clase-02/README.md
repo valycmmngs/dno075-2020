@@ -58,8 +58,8 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_2/ | Fortune Magazine |
 | 19 | Sofía Lira | https://lirasantic.github.io/infografia_2/ | Fritz Kahn |
 | 20 | Javiera Maechtig | pendiente | pendiente |
-| 21 | Karla Mancini | https://kamancini.github.io/Clase02/ | John P. Emslie |
-| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio2/ | John Philipps |
+| 21 | Karla Mancini | https://kamancini.github.io/Clase02/ | John Philipps Emslie |
+| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio2/ | John Philipps Emslie |
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-02/ | Fritz Kahn |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-02/ | Florence Nightgale |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia2/ | Fritz Kahn |
