@@ -42,7 +42,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 2 | Antonia Adell | https://antoadell.github.io/clase2/ |
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia2/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-02-FARK/ |
-| 5 | Carolina Aranibar | pendiente | 
+| 5 | Carolina Aranibar | https://caroaranibar.github.io/infografiadigitalclase2/ | 
 | 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ |
 | 7 | Isabella Cabrera | pendiente |
 | 8 | Dessiree Cifuentes | pendiente |
