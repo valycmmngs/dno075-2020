@@ -59,7 +59,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 19 | Sofía Lira | https://lirasantic.github.io/infografia_2/ |
 | 20 | Javiera Maechtig | … |
 | 21 | Karla Mancini | https://kamancini.github.io/Clase02/ |
-| 22 | Karina Melani | hhttps://karinamelani.github.io/Infografia_Ejercicio2/ |
+| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio2/ |
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-02/ |
 | 24 | Rosario Olivares | … |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia2/ |
