@@ -46,7 +46,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 6 | Silvio Arribas | https://silvioaz.github.io/Infografia_digital/ |
 | 7 | Isabella Cabrera | pendiente |
 | 8 | Dessiree Cifuentes | pendiente |
-| 9 | Debi Codriansky | https://debic.github.io/Clase-2-/ | 
+| 9 | Debi Codriansky | https://debic.github.io/Clase-2-/ | 
 | 10 | Erika Contreras | pendiente |
 | 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio2/ |
 | 12 | Valy Cummings | https://valycmmngs.github.io/infograf-a_clase_2/ |
