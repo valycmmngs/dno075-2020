@@ -38,41 +38,41 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 | Nro.  | Nombre | Ejercicio |
 |:-----:|:-------|:--------|
-| 1 | Rosario Acha | … |
-| 2 | Antonia Adell | … |
+| 1 | Rosario Acha | https://rosaroachaa.github.io/Infografia-digital_clase-2/ |
+| 2 | Antonia Adell | https://antoadell.github.io/clase2/ |
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia2/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-02-FARK/ |
-| 5 | Carolina Aranibar | … | 
-| 6 | Silvio Arribas | … |
-| 7 | Isabella Cabrera | … |
-| 8 | Dessiree Cifuentes | … |
-| 9 | Debi Codriansky | … | 
-| 10 | Erika Contreras | … |
-| 11 | María José Coudeu | … |
-| 12 | Valy Cummings | … |
+| 5 | Carolina Aranibar | pendiente | 
+| 6 | Silvio Arribas | pendiente |
+| 7 | Isabella Cabrera | pendiente |
+| 8 | Dessiree Cifuentes | pendiente |
+| 9 | Debi Codriansky | pendiente | 
+| 10 | Erika Contreras | pendiente |
+| 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio2/ |
+| 12 | Valy Cummings | https://valycmmngs.github.io/infograf-a_clase_2/ |
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase2/ |
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase2/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/clase-2/ |
 | 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase2/ |
-| 18 | Antonia Lasen | … |
-| 19 | Sofía Lira | … |
+| 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_2/ |
+| 19 | Sofía Lira | https://lirasantic.github.io/infografia_2/ |
 | 20 | Javiera Maechtig | … |
 | 21 | Karla Mancini | https://kamancini.github.io/Clase02/ |
-| 22 | Karina Melani | … |
+| 22 | Karina Melani | hhttps://karinamelani.github.io/Infografia_Ejercicio2/ |
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-02/ |
 | 24 | Rosario Olivares | … |
-| 25 | Joaquín Olmedo | … |
-| 26 | Francisco Pezoa | … | 
-| 27 | Daniela Quinteros | … |
-| 28 | Isidora Ravera | … | 
+| 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia2/ |
+| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-02/ | 
+| 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase2/ |
+| 28 | Isidora Ravera | https://isiravera.github.io/clase-2/ | 
 | 29 | Esperanza Ríos | … | 
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ |
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ |
 | 33 | Paula Trujillo | … |
 | 34 | Rosario Valdés | … |
-| 35 | Catalina Vidal | … |
+| 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ |
 
 - - - - - - - 
 
