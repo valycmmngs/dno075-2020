@@ -66,7 +66,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 26 | Francisco Pezoa | https://panshios.github.io/id-clase-02/ | 
 | 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase2/ |
 | 28 | Isidora Ravera | https://isiravera.github.io/clase-2/ | 
-| 29 | Esperanza Ríos | … | 
+| 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital2/ | 
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ |
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ |
