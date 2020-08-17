@@ -68,7 +68,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 28 | Isidora Ravera | https://isiravera.github.io/clase-2/ | Marie Neurath | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital2/ | De todo un poco |
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ | Fortune Magazine |
-| 31 | David Sánchez | pendiente | pendiente | 
+| 31 | David Sánchez | https://david1336.github.io/DNO-075-Clase-02/ | Alejandro Malofiej | 
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ | De todo un poco |
 | 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-2/ | Herbert Bayer |
 | 34 | Rosario Valdés | pendiente | pendiente | 
