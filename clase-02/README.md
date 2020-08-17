@@ -12,7 +12,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
 
-En esta segunda clase, de "**[Antecedentes: Entre el diseño de información y el visual storytelling](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing)**", se consulta la siguiente bibliografía:
+En esta segunda clase, de "**[Antecedentes: Entre el diseño de información y el visual storytelling](https://docs.google.com/presentation/d/1v7mYomfIAf25Yw92JPU-ILcG5768b0TgBW9DzAnilsU/edit?usp=sharing)**", se consulta la siguiente bibliografía:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
