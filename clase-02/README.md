@@ -41,7 +41,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 1 | Rosario Acha | … |
 | 2 | Antonia Adell | … |
 | 3 | Ignacio Agurto | https://iagurto.github.io/infografia2/ | 
-| 4 | Francisco Álvarez | … |
+| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-02-FARK/ |
 | 5 | Carolina Aranibar | … | 
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | … |
@@ -51,14 +51,14 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 11 | María José Coudeu | … |
 | 12 | Valy Cummings | … |
 | 13 | Catalina Escudero | … | 
-| 14 | Olga F. Vio | … |
-| 15 | Fernando Gajardo | … |
+| 14 | Olga F. Vio | https://caracolga.github.io/clase2/ |
+| 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase2/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/clase-2/ |
-| 17 | María Fernanda Herández | … |
+| 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase2/ |
 | 18 | Antonia Lasen | … |
 | 19 | Sofía Lira | … |
 | 20 | Javiera Maechtig | … |
-| 21 | Karla Mancini | … |
+| 21 | Karla Mancini | https://kamancini.github.io/Clase02/ |
 | 22 | Karina Melani | … |
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-02/ |
 | 24 | Rosario Olivares | … |
@@ -67,9 +67,9 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 27 | Daniela Quinteros | … |
 | 28 | Isidora Ravera | … | 
 | 29 | Esperanza Ríos | … | 
-| 30 | Pilar Saavedra | … |
+| 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ |
 | 31 | David Sánchez | … |
-| 32 | Josefina Stückrath | … |
+| 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ |
 | 33 | Paula Trujillo | … |
 | 34 | Rosario Valdés | … |
 | 35 | Catalina Vidal | … |
