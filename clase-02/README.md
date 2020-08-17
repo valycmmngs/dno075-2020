@@ -71,7 +71,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 31 | David Sánchez | https://david1336.github.io/DNO-075-Clase-02/ | Alejandro Malofiej | 
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ | De todo un poco |
 | 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-2/ | Herbert Bayer |
-| 34 | Rosario Valdés | pendiente | pendiente | 
+| 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clasese02/ | Herbert Bayer | 
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ | Fritz Kahn |
 
 - - - - - - - 
