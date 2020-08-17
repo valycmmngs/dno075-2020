@@ -53,7 +53,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | … |
 | 15 | Fernando Gajardo | … |
-| 16 | Javiera González | … |
+| 16 | Javiera González | https://javierapazgbas.github.io/clase-2/ |
 | 17 | María Fernanda Herández | … |
 | 18 | Antonia Lasen | … |
 | 19 | Sofía Lira | … |
