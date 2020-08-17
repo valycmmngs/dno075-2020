@@ -70,7 +70,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-2/ |
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-2/ |
-| 33 | Paula Trujillo | … |
+| 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-2/ |
 | 34 | Rosario Valdés | … |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ |
 
