@@ -23,6 +23,8 @@ En esta tercera clase, de "**Referentes: Desarrollo del visual storytelling desd
 
 Tal como en las clases anteriores, para identificar ejemplos del asunto abordado, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
 
+En esta ocasión recomendamos poner especial atención al pie de página. Ideal sería avanzar a una descripción analítica, en términos visuales, de cada trabajo seleccionado. Al finalizar la clase esa descripción podría ser breve, y para la siguiente podrían extenderla, según indicaciones que se les compartirán en el cierre de la sesión.
+
 En lo que cada cual escriba, debe cumplir con estas recomendaciones: 
 
 - https://www.nngroup.com/videos/biggest-mistake-writing-web/
