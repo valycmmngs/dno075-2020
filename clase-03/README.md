@@ -12,13 +12,15 @@ Las primeras tres clases de este Optativo se dividen en:
 
 En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
 
-En esta tercera clase, de "**Referentes: Desarrollo del visual storytelling desde el periodismo digital**", se consultan los siguientes recursos: 
+En esta tercera clase, de "[**Referentes: Desarrollo del visual storytelling desde el periodismo digital**](https://docs.google.com/presentation/d/1uhVJ5yPBLYs2fhfUgFzAL6jVCcTt6ZYf1AXTObZgAJc/edit?usp=sharing)", se consultan los siguientes recursos: 
  
-- García, Mario R. (1998):  Tendencias en comunicación periodística visual. Revista Latina de Comunicación Social, 3. — http://www.revistalatinacs.org/z8/marz98.mario.htm
+- Austin, T. & Doust, R. (2008). *Diseño de nuevos medios de comunicación*. Barcelona: Blume.
 
-- SND 2020 Virtual Conference – Newsrooms and Beyond — https://www.snd.org/dc2020/
+- García, Mario R. (1998). *Tendencias en comunicación periodística visual*. Revista Latina de Comunicación Social, 3: http://www.revistalatinacs.org/z8/marz98.mario.htm
 
-- The Eyeo Festival (2011-2020) — http://eyeofestival.com/
+- SND 2020 Virtual Conference – Newsrooms and Beyond: https://www.snd.org/dc2020/
+
+- The Eyeo Festival (2011-2020): http://eyeofestival.com/
 
 - - - - - - - 
 
