@@ -38,47 +38,47 @@ En lo que escribas, prefiere seguir las siguientes recomendaciones:
 
 - https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
 
-En esta ocasión, te recomendamos poner especial atención al pie de página; ideal sería avanzar a una descripción analítica, en términos visuales, de cada trabajo seleccionado. Al finalizar la clase esa descripción podría ser breve. Más tarde podrías extenderla, según indicaciones que se compartirán en el cierre de la sesión.
+En esta ocasión, te recomendamos poner especial atención al pie de **foto**; ideal sería avanzar a una descripción analítica, en términos visuales, de cada trabajo seleccionado. Al finalizar la clase esa descripción podría ser breve. Más tarde podrías extenderla, según indicaciones que se compartirán en el cierre de la sesión.
 
 La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-03/) de repositorio.
 
 | Nro.  | Nombre | Referente | GitHub Page |
 |:-----:|:-------|:----------|:-----|
-| 1 | Rosario Acha | … | … |
-| 2 | Antonia Adell | … | … |
-| 3 | Ignacio Agurto | … | … |
-| 4 | Francisco Álvarez | … | … |
-| 5 | Carolina Aranibar | … | … |
-| 6 | Silvio Arribas | … | … |
-| 7 | Isabella Cabrera | … | … |
-| 8 | Dessiree Cifuentes | … | … |
-| 9 | Debi Codriansky | … | … |
-| 10 | Erika Contreras | … | … |
-| 11 | María José Coudeu | … | … |
-| 12 | Valy Cummings | … | … |
-| 13 | Catalina Escudero | … | … |
-| 14 | Olga F. Vio | … | … |
-| 15 | Fernando Gajardo | … | … |
-| 16 | Javiera González | … | … |
-| 17 | María Fernanda Herández | … | … |
-| 18 | Antonia Lasen | … | … |
-| 19 | Sofía Lira | … | … |
-| 20 | Javiera Maechtig | … | … |
-| 21 | Karla Mancini | … | … |
-| 22 | Karina Melani | … | … |
-| 23 | Muriel Muñoz | … | … |
-| 24 | Rosario Olivares | … | … |
-| 25 | Joaquín Olmedo | … | … |
-| 26 | Francisco Pezoa | … | … |
-| 27 | Daniela Quinteros | … | … |
-| 28 | Isidora Ravera | … | … |
-| 29 | Esperanza Ríos | … | … |
-| 30 | Pilar Saavedra | … | … |
-| 31 | David Sánchez | … | … |
-| 32 | Josefina Stückrath | … | … |
-| 33 | Paula Trujillo | … | … |
-| 34 | Rosario Valdés | … | … |
-| 35 | Catalina Vidal | … | … |
+| 1 | Rosario Acha | Mona Chalabi | … |
+| 2 | Antonia Adell | Jennifer Daniel | … |
+| 3 | Ignacio Agurto | Marcelo Duhalde | … |
+| 4 | Francisco Álvarez | Francesco Franchi | … |
+| 5 | Carolina Aranibar | Giorgia Luppi | … |
+| 6 | Silvio Arribas | Jaime Serra | … |
+| 7 | Isabella Cabrera | Sung Hwan Jang | … |
+| 8 | Dessiree Cifuentes | Derek Watkins | … |
+| 9 | Debi Codriansky | Luiz Iria | … |
+| 10 | Erika Contreras | Alejandro Tumas | … |
+| 11 | María José Coudeu | Mónica Serrano  | … |
+| 12 | Valy Cummings | Karl Gude | … |
+| 13 | Catalina Escudero | — | … |
+| 14 | Olga F. Vio | Amanda Cox | … |
+| 15 | Fernando Gajardo | Simon Scarr | … |
+| 16 | Javiera González | Nadja Popovich | … |
+| 17 | María Fernanda Herández | Paula Simonetti  | … |
+| 18 | Antonia Lasen | Adolfo Arranz | … |
+| 19 | Sofía Lira | Juan Velasco | … |
+| 20 | Javiera Maechtig | — | … |
+| 21 | Karla Mancini | Fernando Baptista | … |
+| 22 | Karina Melani | David Mcandless | … |
+| 23 | Muriel Muñoz | Federica Fragapane | … |
+| 24 | Rosario Olivares | — | … |
+| 25 | Joaquín Olmedo | Jan Schwochow | … |
+| 26 | Francisco Pezoa | Nadieh Bremer | … |
+| 27 | Daniela Quinteros | Yolanda Clemente | … |
+| 28 | Isidora Ravera | Juan Pablo Bravo | … |
+| 29 | Esperanza Ríos | Jeff Goertzen | … |
+| 30 | Pilar Saavedra | Álvaro Valiño | … |
+| 31 | David Sánchez | Alberto Lucas López | … |
+| 32 | Josefina Stückrath | Marco Hernandez | … |
+| 33 | Paula Trujillo | Shirley Wu | … |
+| 34 | Rosario Valdés | Mariana Santos | … |
+| 35 | Catalina Vidal | Antonio Farach | … |
 
 
 - - - - - - - 
