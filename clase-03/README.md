@@ -42,7 +42,7 @@ En esta ocasión, te recomendamos poner especial atención al pie de **foto**; i
 
 La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-03/) de repositorio.
 
-| Nro.  | **Nombre** | Referente | GitHub Page |
+| Nro.  | **Estudiante** | Referente | GitHub Page |
 |:-----:|:-------|:----------|:-----|
 | 1 | **Rosario Acha** | Mona Chalabi | https://rosaroachaa.github.io/Infografia-digital_Clase-3/ |
 | 2 | **Antonia Adell** | Jennifer Daniel | https://antoadell.github.io/infodigital-clase3/ |
