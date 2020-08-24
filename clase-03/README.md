@@ -73,7 +73,7 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 27 | Daniela Quinteros | Yolanda Clemente | … |
 | 28 | Isidora Ravera | Juan Pablo Bravo | … |
 | 29 | Esperanza Ríos | Jeff Goertzen | … |
-| 30 | Pilar Saavedra | Álvaro Valiño | … |
+| 30 | Pilar Saavedra | — | … |
 | 31 | David Sánchez | Alberto Lucas López | … |
 | 32 | Josefina Stückrath | Marco Hernandez | … |
 | 33 | Paula Trujillo | Shirley Wu | … |
