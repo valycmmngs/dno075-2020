@@ -60,7 +60,7 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 14 | **Olga F. Vio** | Amanda Cox | pendiente |
 | 15 | **Fernando Gajardo** | Simon Scarr | https://fjgajardo.github.io/Clase3/ |
 | 16 | **Javiera González** | Nadja Popovich | https://javierapazgbas.github.io/Clase-3/ |
-| 17 | **María Fernanda Herández** | Paula Simonetti  | mfhernandez3.github.io/clase3/ |
+| 17 | **María Fernanda Herández** | Paula Simonetti  | https://mfhernandez3.github.io/clase3/ |
 | 18 | **Antonia Lasen** | Adolfo Arranz | https://aflasen.github.io/Info_Digital_3/ |
 | 19 | **Sofía Lira** | Juan Velasco | https://lirasantic.github.io/juan_velasco/ |
 | 20 | **Javiera Maechtig** | — | pendiente |
