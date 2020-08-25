@@ -6,11 +6,11 @@ Las primeras tres clases de este Optativo se dividen en:
 
 - **Precedente…** 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
-- **Antecedente…** 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
+- [Antecedente…](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02) 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
 
-- **Referente…** 1. adj. Que refiere o que expresa relación a algo.
+- [Referente…](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03) 1. adj. Que refiere o que expresa relación a algo.
 
-En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación). 
+En estas tres primeras clase tendrán que usar [GitHub](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#github) y algún [editor de código fuente](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#coding-descripci%C3%B3n-vs-programaci%C3%B3n) para resolver un [ejercicio](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#ejercicio) (todo esto se describe a continuación). 
 
 En esta primera clase, de "[Precedentes: Del texto iluminado al diseño de información](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing)", se consulta la siguiente bibliografía:
  
