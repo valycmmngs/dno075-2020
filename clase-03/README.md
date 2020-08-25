@@ -83,3 +83,5 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 35 | **Catalina Vidal** | Antonio Farach | https://catalinavidal.github.io/infografia_digital_03/ |
 
 - - - - - - - 
+
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04)
