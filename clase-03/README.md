@@ -50,7 +50,7 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 4 | **Francisco Álvarez** | Francesco Franchi | https://fialvarezdelarivera.github.io/Clase-03-FARK/ |
 | 5 | **Carolina Aranibar** | Giorgia Luppi | https://caroaranibar.github.io/infografiaclase3/ |
 | 6 | **Silvio Arribas** | Jaime Serra | pendiente |
-| 7 | **Isabella Cabrera** | Sung Hwan Jang | pendiente |
+| 7 | **Isabella Cabrera** | Sung Hwan Jang | https://fishibanana.github.io/Infograf-a-Digital-Clase-3/ |
 | 8 | **Dessiree Cifuentes** | Derek Watkins | pendiente |
 | 9 | **Debi Codriansky** | Luiz Iria | https://debic.github.io/Clase3/ |
 | 10 | **Erika Contreras** | Alejandro Tumas | https://erikaemm.github.io/alejandrotumas/ |
@@ -74,8 +74,8 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 28 | **Isidora Ravera** | Juan Pablo Bravo | https://isiravera.github.io/clase3/ |
 | 29 | **Esperanza Ríos** | Jeff Goertzen | https://esperanzarios.github.io/jeffgoertzen/ |
 | 30 | **Pilar Saavedra** | Álvaro Valiño | https://pilarfundamental.github.io/info_digital-3/ |
-| 31 | **David Sánchez** | Alberto Lucas López | pendiente |
-| 32 | **Josefina Stückrath** | Marco Hernandez | pendiente |
+| 31 | **David Sánchez** | Alberto Lucas López | https://david1336.github.io/DNO-075-Clase-03/ |
+| 32 | **Josefina Stückrath** | Marco Hernandez | https://jstuckrath.github.io/clase-3/ |
 | 33 | **Paula Trujillo** | Shirley Wu | https://paula-trujillo.github.io/infografia-digital-3/ |
 | 34 | **Rosario Valdés** | Mariana Santos | https://rosariovaldes21.github.io/Trabajo_en_clases_03/ |
 | 35 | **Catalina Vidal** | Antonio Farach | https://catalinavidal.github.io/infografia_digital_03/ |
