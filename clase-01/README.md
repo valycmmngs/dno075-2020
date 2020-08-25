@@ -119,8 +119,6 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
 
-Resultados de clase 2 · Resultados de clase 3
-
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02)
