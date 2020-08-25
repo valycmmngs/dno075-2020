@@ -42,6 +42,8 @@ En esta ocasión, te recomendamos poner especial atención al pie de **foto**; i
 
 La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-03/) de repositorio.
 
+#### Resultados
+
 | Nro.  | **Estudiante** | Referente | GitHub Page |
 |:-----:|:-------|:----------|:-----|
 | 1 | **Rosario Acha** | Mona Chalabi | https://rosaroachaa.github.io/Infografia-digital_Clase-3/ |
@@ -80,5 +82,6 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 34 | **Rosario Valdés** | Mariana Santos | https://rosariovaldes21.github.io/Trabajo_en_clases_03/ |
 | 35 | **Catalina Vidal** | Antonio Farach | https://catalinavidal.github.io/infografia_digital_03/ |
 
+Resultados de clase 1 · Resultados de clase 2
 
 - - - - - - - 
