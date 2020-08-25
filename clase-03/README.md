@@ -82,6 +82,4 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 34 | **Rosario Valdés** | Mariana Santos | https://rosariovaldes21.github.io/Trabajo_en_clases_03/ |
 | 35 | **Catalina Vidal** | Antonio Farach | https://catalinavidal.github.io/infografia_digital_03/ |
 
-Resultados de clase 1 · Resultados de clase 2
-
 - - - - - - - 
