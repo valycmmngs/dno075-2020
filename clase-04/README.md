@@ -16,7 +16,7 @@ A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más p
 
 #### Ejercicio
 
-Necesitaremos lápiz y papel, además de un aparato para digitalizar los bocetos que realicen a mano (Ej: la cámara en su teléfono, scanner); podríamos entregar algunas instrucciones respecto del uso de Photoshop para ajustar peso y resolución en la digitalización del boceto, para ello sería necesario tener el software instalado en sus computadores.
+Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los bocetos que realicen a mano (Ej: la cámara en su teléfono, scanner); podríamos entregar algunas instrucciones respecto del uso de [Photoshop](https://www.adobe.com/la/products/photoshop.html) para ajustar peso y resolución en la digitalización del boceto, para ello sería necesario tener este software de Adobe instalado en sus computadores.
 
 Con base a lo escogido en votación del comienzo de clases, corresponde desarrollar los correspondientes bocetos y textos explicativos breves, así preparar un prototipo rápido de infografía digital.
 
