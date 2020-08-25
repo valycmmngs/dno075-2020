@@ -20,7 +20,7 @@ Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los
 
 Con base a lo escogido en votación del comienzo de clases, corresponde desarrollar los correspondientes bocetos y textos explicativos breves, así preparar un prototipo rápido de infografía digital.
 
-La entrega de este prototipo rápido se hace en línea, con el uso de GitHub Pages, aprovechando los archivos compartidos en esta carpeta de repositorio.
+La entrega de este prototipo rápido se hace en línea, con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2020/clase-04/).
 
 #### Resultados
 
