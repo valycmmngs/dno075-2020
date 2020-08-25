@@ -18,13 +18,13 @@ A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más p
 
 Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los bocetos que realicen a mano (Ej: la cámara en su teléfono, scanner); podríamos entregar algunas instrucciones respecto del uso de [Photoshop](https://www.adobe.com/la/products/photoshop.html) para ajustar peso y resolución en la digitalización del boceto, para ello sería necesario tener este software de Adobe instalado en sus computadores.
 
-Con base a lo escogido en votación del comienzo de clases, en la clase se desarrollarán 3 ejercicios
+Con base a lo escogido en votación del comienzo de clases, **desarrollaremos 3 ejercicios**:
 
 - Primero, tendrán que **dibujar 5 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
 
-- Luego, se toman tales dibujos y se digitalizan. Corresponde dejarlos en un formato cuadrado, escala de grises y extensión `PNG`. Con esto se arma la página web que tendrán que poner en línea, con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2020/clase-04/). En la página tienen que introducir al asunto y describir cada imagen para una mejor comprensión de los pasos del movimiento o el proceso en cuestión. Esto pueden mejorarlo hasta las 23.59 hrs. del mismo día, pero podría ser muy útil tenerlo en línea justo a medio día, para poder compartir avances con el curso (entre 12.10 y 12.50 hrs.) 
+- Luego, se toman tales dibujos y se digitalizan. Corresponde dejarlos en un formato cuadrado, escala de grises y extensión `PNG`. **Con esto se arma la página web que tendrán que poner en línea, con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2020/clase-04/)**. En la página tienen que introducir al movimiento o  proceso en cuestión y describir cada paso, que ya es presentado por medio de un dibujo. Esto pueden mejorarlo hasta las 23.59 hrs. del mismo día, pero podría ser muy útil tenerlo en línea justo a medio día, para poder compartir avances con el curso (entre 12.10 y 12.50 hrs.) 
 
-- Finalmente, corresponde realizar un boceto de *layout* completo. A través de este boceto, ustedes tienen que proponer su propia estructura de navegación vertical de una infografía digital. Este boceto tendrá que ser construido de modo tan rápido y económico como fuese posible al objetivo de ayudar a un equipo profesional a pensar en términos realistas acerca de cómo sería la interacción con una infografía digital por desarrollar. Esta imagen debe ser entregada en carpeta Drive, hasta las 23.59 hrs. del viernes 4 de septiembre.
+- Finalmente, **corresponde realizar un boceto de *layout* completo**. A través de este boceto, ustedes tienen que proponer su propia estructura de navegación vertical de una infografía digital. Este boceto tendrá que ser construido de modo tan rápido y económico como fuese posible al objetivo de ayudar a un equipo profesional a **pensar en términos realistas acerca de cómo sería la interacción con una infografía digital por desarrollar**. Esta imagen debe ser entregada en carpeta Drive, hasta las 23.59 hrs. del viernes 4 de septiembre.
 
 #### Resultados del segundo ejercicio
 
