@@ -4,13 +4,13 @@
 
 En las tres primeras clases aseguramos la partida mediante la exploración de [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03). Como tarea, quedó la revisión de dos ponencias de expertos:
 
-1) [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), la investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima; y 
+1) [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima; y 
 
-2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), el especialista en storytelling móvil y transformación de redacciones para el mundo digital, quien ha aportado a la actulidad de la prensa con consultorías en 120 países.
+2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
 
 A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más práctico, partiendo por "**Herramientas de dibujo en función de la planificación**", donde la referencia principal será: 
 
-- Roam, Dan (2008). The Back of the Napkin: Solving Problems and Selling Ideas with Pictures.
+- Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*.
 
 #### Ejercicio
 
