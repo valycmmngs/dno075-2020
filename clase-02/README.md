@@ -34,7 +34,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 **La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-02/) de repositorio**.
 
-**Resultados**
+#### Resultados
 
 | Nro.  | Nombre | Ejercicio | Tema |
 |:-----:|:-------|:----------|:-----|
@@ -50,7 +50,7 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 10 | Erika Contreras | https://erikaemm.github.io/t2_erika_contrera/ | Fritz Kahn |
 | 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio2/ | National Geographic Infographics |
 | 12 | Valy Cummings | https://valycmmngs.github.io/infograf-a_clase_2/ | Fritz Kahn |
-| 13 | Catalina Escudero | pendiente | pendiente |
+| 13 | Catalina Escudero | — | — |
 | 14 | Olga F. Vio | https://caracolga.github.io/clase2/ | Fortune Magazine |
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase2/ | Richard Edes Harrison |
 | 16 | Javiera González | https://javierapazgbas.github.io/clase-2/ | Herbert Bayer |
@@ -73,6 +73,8 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-2/ | Herbert Bayer |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clasese02/ | Herbert Bayer | 
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ | Fritz Kahn |
+
+Resultados de clase 1 · Resultados de clase 3
 
 - - - - - - - 
 
