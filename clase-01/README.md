@@ -79,7 +79,7 @@ En lo que escribas, prefiera cumplir con estas recomendaciones:
 Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las instrucciones: haz los reemplazos donde se indique. Puedes solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/). Si necesita ayuda de los profesores o ayudante, debes tener tu trabajo en un repositorio.
 
 
-**Resultados**
+#### Resultados
 
 | Nro.  | Nombre | Ejercicio |
 |:-----:|:-------|:--------|
@@ -92,10 +92,10 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 7 | Isabella Cabrera | https://fishibanana.github.io/INFOGRAF-A_DIGITAL/ |
 | 8 | Dessiree Cifuentes | https://desscarol.github.io/Clase_01_Info_Digital/ |
 | 9 | Debi Codriansky | https://debic.github.io/Clase_1/ | 
-| 10 | Erika Contreras | pendiente |
+| 10 | Erika Contreras | — |
 | 11 | María José Coudeu | https://mjcoudeu.github.io/ejercicio-1/ |
 | 12 | Valy Cummings | https://valycmmngs.github.io/infografia_digital_1/ |
-| 13 | Catalina Escudero | pendiente | 
+| 13 | Catalina Escudero | — | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase1/ |
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/Clase-1-/ |
@@ -118,6 +118,8 @@ Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las i
 | 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital/ |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_01/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_01/ |
+
+Resultados de clase 2 · Resultados de clase 3
 
 - - - - - - - 
 
