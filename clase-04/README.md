@@ -1,6 +1,6 @@
 # Infografía Digital v1
 
-### Clase 04 → Lunes 31 de agosto, 
+### Clase 04 → Lunes 31 de agosto, 2020
 
 En las tres primeras clases aseguramos la partida mediante la exploración de precedentes, antecedentes y referentes. Como tarea, quedó la revisión de dos ponencias de expertos:
 
