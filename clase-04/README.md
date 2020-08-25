@@ -20,7 +20,7 @@ Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los
 
 Con base a lo escogido en votación del comienzo de clases, **desarrollaremos 3 ejercicios**:
 
-- Primero, tendrán que **dibujar 4, 5 o6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
+- Primero, tendrán que **dibujar 4, 5 o 6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
 
 - Luego, se toman tales dibujos y se digitalizan. Corresponde dejarlos en un formato cuadrado, escala de grises y extensión `PNG`. **Con esto se arma la página web que tendrán que poner en línea, con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2020/clase-04/)**. En la página tienen que introducir al movimiento o  proceso en cuestión y describir cada paso, que ya es presentado por medio de un dibujo ([escribe y muestra](https://youtu.be/iEB3oILm-qQ?t=2024)). Esto pueden mejorarlo hasta las 23.59 hrs. del mismo día, pero podría ser muy útil tenerlo en línea justo a medio día, para poder compartir avances con el curso (entre 12.10 y 12.50 hrs.) 
 
