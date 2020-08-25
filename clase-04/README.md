@@ -12,6 +12,8 @@ A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más p
 
 - Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*.
 
+- - - - - - - - - - - - - 
+
 #### Ejercicio
 
 Necesitaremos lápiz y papel, además de un aparato para digitalizar los bocetos que realicen a mano (Ej: la cámara en su teléfono, scanner); podríamos entregar algunas instrucciones respecto del uso de Photoshop para ajustar peso y resolución en la digitalización del boceto, para ello sería necesario tener el software instalado en sus computadores.
