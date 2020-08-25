@@ -16,7 +16,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 03 → 24/08/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03) → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
 
-Clase 04 → 31/08/2020 → El boceto: Herramientas de dibujo en función de la planificación.
+[Clase 04 → 31/08/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04) → El boceto: Herramientas de dibujo en función de la planificación.
 
 Clase 05 → 07/09/2020 → Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial.
 
