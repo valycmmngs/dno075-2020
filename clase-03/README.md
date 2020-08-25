@@ -49,28 +49,28 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 | 3 | **Ignacio Agurto** | Marcelo Duhalde | https://iagurto.github.io/clase3_duhalde/ |
 | 4 | **Francisco Álvarez** | Francesco Franchi | https://fialvarezdelarivera.github.io/Clase-03-FARK/ |
 | 5 | **Carolina Aranibar** | Giorgia Luppi | https://caroaranibar.github.io/infografiaclase3/ |
-| 6 | **Silvio Arribas** | Jaime Serra | pendiente |
+| 6 | **Silvio Arribas** | Jaime Serra | https://silvioaz.github.io/Infografia_digital/ |
 | 7 | **Isabella Cabrera** | Sung Hwan Jang | https://fishibanana.github.io/Infograf-a-Digital-Clase-3/ |
-| 8 | **Dessiree Cifuentes** | Derek Watkins | pendiente |
+| 8 | **Dessiree Cifuentes** | Derek Watkins | https://desscarol.github.io/Info_Digital_Clase_03/ |
 | 9 | **Debi Codriansky** | Luiz Iria | https://debic.github.io/Clase3/ |
 | 10 | **Erika Contreras** | Alejandro Tumas | https://erikaemm.github.io/alejandrotumas/ |
 | 11 | **María José Coudeu** | Mónica Serrano  | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio3/ |
-| 12 | **Valy Cummings** | Karl Gude | pendiente |
-| 13 | **Catalina Escudero** | — | pendiente |
-| 14 | **Olga F. Vio** | Amanda Cox | pendiente |
+| 12 | **Valy Cummings** | Karl Gude | https://valycmmngs.github.io/infografia_clase_3/ |
+| 13 | **Catalina Escudero** | — | — |
+| 14 | **Olga F. Vio** | Amanda Cox | https://caracolga.github.io/clase3/ |
 | 15 | **Fernando Gajardo** | Simon Scarr | https://fjgajardo.github.io/Clase3/ |
 | 16 | **Javiera González** | Nadja Popovich | https://javierapazgbas.github.io/Clase-3/ |
 | 17 | **María Fernanda Herández** | Paula Simonetti  | https://mfhernandez3.github.io/Clase3/ |
 | 18 | **Antonia Lasen** | Adolfo Arranz | https://aflasen.github.io/Info_Digital_3/ |
 | 19 | **Sofía Lira** | Juan Velasco | https://lirasantic.github.io/juan_velasco/ |
-| 20 | **Javiera Maechtig** | — | pendiente |
+| 20 | **Javiera Maechtig** | — | — |
 | 21 | **Karla Mancini** | Fernando Baptista | https://kamancini.github.io/clase3/ |
 | 22 | **Karina Melani** | David Mcandless | https://karinamelani.github.io/Infografia_Ejercicio3/ |
 | 23 | **Muriel Muñoz** | Federica Fragapane | https://murimu.github.io/dno075-2020-clase-03/ |
 | 24 | **Rosario Olivares** | Valentina D'Efillipo | https://rosarioof.github.io/Infografia-03/ |
-| 25 | **Joaquín Olmedo** | Jan Schwochow | pendiente |
+| 25 | **Joaquín Olmedo** | Jan Schwochow | https://joacolmedo.github.io/infografia3/ |
 | 26 | **Francisco Pezoa** | Nadieh Bremer | https://panshios.github.io/id-clase-03/ |
-| 27 | **Daniela Quinteros** | Yolanda Clemente | pendiente |
+| 27 | **Daniela Quinteros** | Alberto Cairo | https://danuwu.github.io/infografia_digital_clase3/ |
 | 28 | **Isidora Ravera** | Juan Pablo Bravo | https://isiravera.github.io/clase3/ |
 | 29 | **Esperanza Ríos** | Jeff Goertzen | https://esperanzarios.github.io/jeffgoertzen/ |
 | 30 | **Pilar Saavedra** | Álvaro Valiño | https://pilarfundamental.github.io/info_digital-3/ |
