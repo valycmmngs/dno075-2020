@@ -74,8 +74,6 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clasese02/ | Herbert Bayer | 
 | 35 | Catalina Vidal | https://catalinavidal.github.io/infografia_digital_02/ | Fritz Kahn |
 
-Resultados de clase 1 · Resultados de clase 3
-
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03)
