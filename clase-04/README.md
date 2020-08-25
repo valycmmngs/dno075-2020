@@ -8,7 +8,7 @@ En las tres primeras clases aseguramos la partida mediante la exploración de [p
 
 2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
 
-A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más práctico, partiendo por "**Herramientas de dibujo en función de la planificación**", donde la referencia principal será: 
+A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más práctico, partiendo por "**El boceto: Herramientas de dibujo en función de la planificación**", donde la referencia principal será: 
 
 - Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*.
 
