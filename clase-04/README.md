@@ -28,43 +28,55 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
  
 #### Resultados del ejercicio
 
+**Sección 1**: [Qué ocurre si mezclas Coca Cola con sal (Experimentos Caseros con comida)](https://youtu.be/TIz5l3rains) 
+
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
 | 1 | **Rosario Acha** | https://rosaroachaa.github.io/Infografia-digital_clase-4-/ |
+| 8 | **Dessiree Cifuentes** | https://desscarol.github.io/Info_Digital_Clase_04/ |
+| 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
+| 19 | **Sofía Lira** | https://lirasantic.github.io/Clase_04/ |
+| 23 | **Muriel Muñoz** | https://murimu.github.io/dno075-2020-clase-04/ |
+| 24 | **Rosario Olivares** | https://rosarioof.github.io/Infografia-04/ |
+| 30 | **Pilar Saavedra** | https://pilarfundamental.github.io/info_digital-4/ |
+| 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
+| 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
+
+**Sección 2**: [How to Do Irimi Nage | Aikido Lessons](https://www.youtube.com/watch?time_continue=67&v=KihiVy0in4E&feature=emb_logo)
+
+| Nro.  | **Estudiante** | GitHub Page |
+|:-----:|:-------|:-----|
+| 14 | **Olga F. Vio** | https://caracolga.github.io/clase4/ |
+| 16 | **Javiera González** | https://javierapazgbas.github.io/Clase-4/ |
+| 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
+| 18 | **Antonia Lasen** | https://aflasen.github.io/Info_Digital_4/ |
+| 21 | **Karla Mancini** | https://kamancini.github.io/Clase-04/ |
+| 26 | **Francisco Pezoa** | https://panshios.github.io/id-clase-04/ |
+| 28 | **Isidora Ravera** | https://isiravera.github.io/clase4/ |
+| 29 | **Esperanza Ríos** | https://esperanzarios.github.io/infografiadigital4/ |
+
+**Pendientes**
+
+| Nro.  | **Estudiante** | GitHub Page |
+|:-----:|:-------|:-----|
 | 2 | **Antonia Adell** | … |
 | 3 | **Ignacio Agurto** | … |
 | 4 | **Francisco Álvarez** | … |
 | 5 | **Carolina Aranibar** | … |
 | 6 | **Silvio Arribas** | … |
 | 7 | **Isabella Cabrera** | … |
-| 8 | **Dessiree Cifuentes** | https://desscarol.github.io/Info_Digital_Clase_04/ |
 | 9 | **Debi Codriansky** | … |
 | 10 | **Erika Contreras** | … |
-| 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
 | 12 | **Valy Cummings** | … |
 | 13 | **Catalina Escudero** | … |
-| 14 | **Olga F. Vio** | https://caracolga.github.io/clase4/ |
 | 15 | **Fernando Gajardo** | … |
-| 16 | **Javiera González** | https://javierapazgbas.github.io/Clase-4/ |
-| 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
-| 18 | **Antonia Lasen** | https://aflasen.github.io/Info_Digital_4/ |
-| 19 | **Sofía Lira** | https://lirasantic.github.io/Clase_04/ |
 | 20 | **Javiera Maechtig** | … |
-| 21 | **Karla Mancini** | https://kamancini.github.io/Clase-04/ |
 | 22 | **Karina Melani** | … |
-| 23 | **Muriel Muñoz** | https://murimu.github.io/dno075-2020-clase-04/ |
-| 24 | **Rosario Olivares** | https://rosarioof.github.io/Infografia-04/ |
 | 25 | **Joaquín Olmedo** | … |
-| 26 | **Francisco Pezoa** | https://panshios.github.io/id-clase-04/ |
 | 27 | **Daniela Quinteros** | … |
-| 28 | **Isidora Ravera** | https://isiravera.github.io/clase4/ |
-| 29 | **Esperanza Ríos** | https://esperanzarios.github.io/infografiadigital4/ |
-| 30 | **Pilar Saavedra** | https://pilarfundamental.github.io/info_digital-4/ |
 | 31 | **David Sánchez** | … |
 | 32 | **Josefina Stückrath** | … |
 | 33 | **Paula Trujillo** | … |
-| 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
-| 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
 
 - - - - - - - 
 
