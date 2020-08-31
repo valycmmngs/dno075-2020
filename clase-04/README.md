@@ -33,11 +33,15 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
 | 1 | **Rosario Acha** | https://rosaroachaa.github.io/Infografia-digital_clase-4-/ |
+| 3 | **Ignacio Agurto** | https://iagurto.github.io/clase4/ |
 | 8 | **Dessiree Cifuentes** | https://desscarol.github.io/Info_Digital_Clase_04/ |
+| 9 | **Debi Codriansky** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
 | 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
+| 15 | **Fernando Gajardo** | https://fjgajardo.github.io/Clase4/ |
 | 19 | **Sofía Lira** | https://lirasantic.github.io/Clase_04/ |
 | 23 | **Muriel Muñoz** | https://murimu.github.io/dno075-2020-clase-04/ |
 | 24 | **Rosario Olivares** | https://rosarioof.github.io/Infografia-04/ |
+| 25 | **Joaquín Olmedo** | https://joacolmedo.github.io/infografia4/ |
 | 30 | **Pilar Saavedra** | https://pilarfundamental.github.io/info_digital-4/ |
 | 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
 | 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
@@ -46,37 +50,33 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
+| 4 | **Francisco Álvarez** | https://fialvarezdelarivera.github.io/Clase-04-FARK/ |
 | 5 | **Carolina Aranibar** | https://caroaranibar.github.io/infografiaclase4/ |
+| 7 | **Isabella Cabrera** | https://fishibanana.github.io/Infograf-a-Digital-Clase-4/ |
 | 14 | **Olga F. Vio** | https://caracolga.github.io/clase4/ |
 | 16 | **Javiera González** | https://javierapazgbas.github.io/Clase-4/ |
 | 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
 | 18 | **Antonia Lasen** | https://aflasen.github.io/Info_Digital_4/ |
 | 21 | **Karla Mancini** | https://kamancini.github.io/Clase-04/ |
+| 22 | **Karina Melani** | https://karinamelani.github.io/Infografia_ejercicio4/ |
 | 26 | **Francisco Pezoa** | https://panshios.github.io/id-clase-04/ |
 | 28 | **Isidora Ravera** | https://isiravera.github.io/clase4/ |
 | 29 | **Esperanza Ríos** | https://esperanzarios.github.io/infografiadigital4/ |
+| 33 | **Paula Trujillo** | https://paula-trujillo.github.io/infografia-digital-4/ |
 
 **Pendientes**
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
 | 2 | **Antonia Adell** | … |
-| 3 | **Ignacio Agurto** | … |
-| 4 | **Francisco Álvarez** | … |
 | 6 | **Silvio Arribas** | … |
-| 7 | **Isabella Cabrera** | … |
-| 9 | **Debi Codriansky** | … |
 | 10 | **Erika Contreras** | … |
 | 12 | **Valy Cummings** | … |
 | 13 | **Catalina Escudero** | … |
-| 15 | **Fernando Gajardo** | … |
 | 20 | **Javiera Maechtig** | … |
-| 22 | **Karina Melani** | … |
-| 25 | **Joaquín Olmedo** | … |
 | 27 | **Daniela Quinteros** | … |
 | 31 | **David Sánchez** | … |
 | 32 | **Josefina Stückrath** | … |
-| 33 | **Paula Trujillo** | … |
 
 - - - - - - - 
 
