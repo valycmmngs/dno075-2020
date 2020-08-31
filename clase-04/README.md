@@ -26,7 +26,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 - **Después de una sesión grupal, donde se verificará la efectividad de los *wordless*, sí podrán [describir los pasos que se muestran](https://youtu.be/iEB3oILm-qQ?t=2024)**. Esto pueden mejorarlo hasta las 23.59 hrs. del mismo día. 
  
-#### Resultados del segundo ejercicio
+#### Resultados del ejercicio
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
