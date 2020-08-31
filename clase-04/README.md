@@ -46,6 +46,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
+| 5 | **Carolina Aranibar** | https://caroaranibar.github.io/infografiaclase4/ |
 | 14 | **Olga F. Vio** | https://caracolga.github.io/clase4/ |
 | 16 | **Javiera González** | https://javierapazgbas.github.io/Clase-4/ |
 | 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
@@ -62,7 +63,6 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 2 | **Antonia Adell** | … |
 | 3 | **Ignacio Agurto** | … |
 | 4 | **Francisco Álvarez** | … |
-| 5 | **Carolina Aranibar** | … |
 | 6 | **Silvio Arribas** | … |
 | 7 | **Isabella Cabrera** | … |
 | 9 | **Debi Codriansky** | … |
