@@ -36,6 +36,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 3 | **Ignacio Agurto** | https://iagurto.github.io/clase4/ |
 | 8 | **Dessiree Cifuentes** | https://desscarol.github.io/Info_Digital_Clase_04/ |
 | 9 | **Debi Codriansky** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
+| 10 | **Erika Contreras** | https://erikaemm.github.io/encargo44/ |
 | 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
 | 15 | **Fernando Gajardo** | https://fjgajardo.github.io/Clase4/ |
 | 19 | **Sofía Lira** | https://lirasantic.github.io/Clase_04/ |
@@ -70,7 +71,6 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 |:-----:|:-------|:-----|
 | 2 | **Antonia Adell** | … |
 | 6 | **Silvio Arribas** | … |
-| 10 | **Erika Contreras** | … |
 | 12 | **Valy Cummings** | … |
 | 13 | **Catalina Escudero** | … |
 | 20 | **Javiera Maechtig** | … |
