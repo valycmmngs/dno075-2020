@@ -43,7 +43,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
 | 12 | **Valy Cummings** | … |
 | 13 | **Catalina Escudero** | … |
-| 14 | **Olga F. Vio** | … |
+| 14 | **Olga F. Vio** | https://caracolga.github.io/clase4/ |
 | 15 | **Fernando Gajardo** | … |
 | 16 | **Javiera González** | https://javierapazgbas.github.io/Clase-4/ |
 | 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
