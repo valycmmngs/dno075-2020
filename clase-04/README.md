@@ -37,7 +37,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 5 | **Carolina Aranibar** | … |
 | 6 | **Silvio Arribas** | … |
 | 7 | **Isabella Cabrera** | … |
-| 8 | **Dessiree Cifuentes** | … |
+| 8 | **Dessiree Cifuentes** | https://desscarol.github.io/Info_Digital_Clase_04/ |
 | 9 | **Debi Codriansky** | … |
 | 10 | **Erika Contreras** | … |
 | 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
@@ -45,14 +45,14 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 13 | **Catalina Escudero** | … |
 | 14 | **Olga F. Vio** | … |
 | 15 | **Fernando Gajardo** | … |
-| 16 | **Javiera González** | … |
+| 16 | **Javiera González** | https://javierapazgbas.github.io/Clase-4/ |
 | 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
-| 18 | **Antonia Lasen** | … |
-| 19 | **Sofía Lira** | … |
+| 18 | **Antonia Lasen** | https://aflasen.github.io/Info_Digital_4/ |
+| 19 | **Sofía Lira** | https://lirasantic.github.io/Clase_04/ |
 | 20 | **Javiera Maechtig** | … |
 | 21 | **Karla Mancini** | … |
 | 22 | **Karina Melani** | … |
-| 23 | **Muriel Muñoz** | … |
+| 23 | **Muriel Muñoz** | https://murimu.github.io/dno075-2020-clase-04/ |
 | 24 | **Rosario Olivares** | … |
 | 25 | **Joaquín Olmedo** | … |
 | 26 | **Francisco Pezoa** | https://panshios.github.io/id-clase-04/ |
@@ -64,7 +64,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 32 | **Josefina Stückrath** | … |
 | 33 | **Paula Trujillo** | … |
 | 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
-| 35 | **Catalina Vidal** | … |
+| 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
 
 - - - - - - - 
 
