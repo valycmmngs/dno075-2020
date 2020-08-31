@@ -57,7 +57,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 25 | **Joaquín Olmedo** | … |
 | 26 | **Francisco Pezoa** | https://panshios.github.io/id-clase-04/ |
 | 27 | **Daniela Quinteros** | … |
-| 28 | **Isidora Ravera** | … |
+| 28 | **Isidora Ravera** | https://isiravera.github.io/clase4/ |
 | 29 | **Esperanza Ríos** | https://esperanzarios.github.io/infografiadigital4/ |
 | 30 | **Pilar Saavedra** | https://pilarfundamental.github.io/info_digital-4/ |
 | 31 | **David Sánchez** | … |
