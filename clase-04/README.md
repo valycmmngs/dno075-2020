@@ -30,7 +30,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
-| 1 | **Rosario Acha** | … |
+| 1 | **Rosario Acha** | https://rosaroachaa.github.io/Infografia-digital_clase-4-/ |
 | 2 | **Antonia Adell** | … |
 | 3 | **Ignacio Agurto** | … |
 | 4 | **Francisco Álvarez** | … |
@@ -40,13 +40,13 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 8 | **Dessiree Cifuentes** | … |
 | 9 | **Debi Codriansky** | … |
 | 10 | **Erika Contreras** | … |
-| 11 | **María José Coudeu** | … |
+| 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
 | 12 | **Valy Cummings** | … |
 | 13 | **Catalina Escudero** | … |
 | 14 | **Olga F. Vio** | … |
 | 15 | **Fernando Gajardo** | … |
 | 16 | **Javiera González** | … |
-| 17 | **María Fernanda Herández** | … |
+| 17 | **María Fernanda Herández** | https://mfhernandez3.github.io/Clase4/ |
 | 18 | **Antonia Lasen** | … |
 | 19 | **Sofía Lira** | … |
 | 20 | **Javiera Maechtig** | … |
@@ -55,15 +55,15 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 23 | **Muriel Muñoz** | … |
 | 24 | **Rosario Olivares** | … |
 | 25 | **Joaquín Olmedo** | … |
-| 26 | **Francisco Pezoa** | … |
+| 26 | **Francisco Pezoa** | https://panshios.github.io/id-clase-04/ |
 | 27 | **Daniela Quinteros** | … |
 | 28 | **Isidora Ravera** | … |
-| 29 | **Esperanza Ríos** | … |
+| 29 | **Esperanza Ríos** | https://esperanzarios.github.io/infografiadigital4/ |
 | 30 | **Pilar Saavedra** | … |
 | 31 | **David Sánchez** | … |
 | 32 | **Josefina Stückrath** | … |
 | 33 | **Paula Trujillo** | … |
-| 34 | **Rosario Valdés** | … |
+| 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
 | 35 | **Catalina Vidal** | … |
 
 - - - - - - - 
