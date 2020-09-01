@@ -26,9 +26,9 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 - **Después de una sesión grupal, donde se verificará la efectividad de los *wordless*, sí podrán [describir los pasos que se muestran](https://youtu.be/iEB3oILm-qQ?t=2024)**. Esto pueden mejorarlo hasta las 23.59 hrs. del mismo día. 
  
-#### Resultados del ejercicio
+#### Resultados sección 1 
 
-**Sección 1**: [Qué ocurre si mezclas Coca Cola con sal (Experimentos Caseros con comida)](https://youtu.be/TIz5l3rains) 
+[Qué ocurre si mezclas Coca Cola con sal (Experimentos Caseros con comida)](https://youtu.be/TIz5l3rains): 
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
@@ -47,7 +47,9 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
 | 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
 
-**Sección 2**: [How to Do Irimi Nage | Aikido Lessons](https://www.youtube.com/watch?time_continue=67&v=KihiVy0in4E&feature=emb_logo)
+Resultados sección 2**
+
+[How to Do Irimi Nage | Aikido Lessons](https://www.youtube.com/watch?time_continue=67&v=KihiVy0in4E&feature=emb_logo):
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
