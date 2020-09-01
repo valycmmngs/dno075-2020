@@ -44,6 +44,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 24 | **Rosario Olivares** | https://rosarioof.github.io/Infografia-04/ |
 | 25 | **Joaquín Olmedo** | https://joacolmedo.github.io/infografia4/ |
 | 30 | **Pilar Saavedra** | https://pilarfundamental.github.io/info_digital-4/ |
+| 32 | **Josefina Stückrath** | https://jstuckrath.github.io/clase-4/ |
 | 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
 | 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
 
@@ -78,7 +79,6 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 20 | **Javiera Maechtig** | … |
 | 27 | **Daniela Quinteros** | … |
 | 31 | **David Sánchez** | … |
-| 32 | **Josefina Stückrath** | … |
 
 - - - - - - - 
 
