@@ -47,7 +47,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 34 | **Rosario Valdés** | https://rosariovaldes21.github.io/Trabajo_en_clases_04/ |
 | 35 | **Catalina Vidal** | https://catalinavidal.github.io/infografia_digital_4/ |
 
-Resultados sección 2**
+#### Resultados sección 2
 
 [How to Do Irimi Nage | Aikido Lessons](https://www.youtube.com/watch?time_continue=67&v=KihiVy0in4E&feature=emb_logo):
 
